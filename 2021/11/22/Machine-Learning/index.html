@@ -7,7 +7,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/img/default.jpg">
 <meta property="article:published_time" content="2021-11-22T08:02:59.782Z">
-<meta property="article:modified_time" content="2021-11-22T08:37:58.018Z">
+<meta property="article:modified_time" content="2021-11-22T08:40:47.609Z">
 <meta property="article:author" content="Zihan Wang">
 <meta property="article:tag" content="Zihan&#39;s Blog">
 <meta name="twitter:card" content="summary">
@@ -58,7 +58,7 @@
   isHome: false,
   isHighlightShrink: false,
   isToc: true,
-  postUpdate: '2021-11-22 19:07:58'
+  postUpdate: '2021-11-22 19:10:47'
 }</script><noscript><style type="text/css">
   #nav {
     opacity: 1
@@ -147,14 +147,14 @@
       }
     }
     detectApple()
-    })(window)</script><meta name="generator" content="Hexo 5.4.0"></head><body><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://anzhu.wang/images/portrait.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">Articles</div><div class="length-num">2</div></a></div></div></div><hr/></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url('https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/img/default.jpg')"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">Zihan's Blog</a></span><div id="menus"><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">Machine Learning</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">Created</span><time class="post-meta-date-created" datetime="2021-11-22T08:02:59.782Z" title="Created 2021-11-22 18:32:59">2021-11-22</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">Updated</span><time class="post-meta-date-updated" datetime="2021-11-22T08:37:58.018Z" title="Updated 2021-11-22 19:07:58">2021-11-22</time></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" id="" data-flag-title="Machine Learning"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">Post View:</span><span id="busuanzi_value_page_pv"></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><h1 id="1-Introduction"><a href="#1-Introduction" class="headerlink" title="1 Introduction"></a>1 Introduction</h1><blockquote>
+    })(window)</script><meta name="generator" content="Hexo 5.4.0"></head><body><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://anzhu.wang/images/portrait.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">Articles</div><div class="length-num">2</div></a></div></div></div><hr/></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url('https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/img/default.jpg')"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">Zihan's Blog</a></span><div id="menus"><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">Machine Learning</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">Created</span><time class="post-meta-date-created" datetime="2021-11-22T08:02:59.782Z" title="Created 2021-11-22 18:32:59">2021-11-22</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">Updated</span><time class="post-meta-date-updated" datetime="2021-11-22T08:40:47.609Z" title="Updated 2021-11-22 19:10:47">2021-11-22</time></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" id="" data-flag-title="Machine Learning"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">Post View:</span><span id="busuanzi_value_page_pv"></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><h1 id="1-Introduction"><a href="#1-Introduction" class="headerlink" title="1 Introduction"></a>1 Introduction</h1><blockquote>
 <p>define a set of function(model) -&gt; goodness of function -&gt; pick the best function</p>
 </blockquote>
 <h2 id="Learning-Map"><a href="#Learning-Map" class="headerlink" title="Learning Map"></a>Learning Map</h2><p>下图中，同样的颜色指的是同一个类型的事情。</p>
 <p>蓝色方块指的是scenario，即学习的情景。通常学习的情景是我们没有办法控制的，比如做强化学习（reinforcement Learning）是因为我们没有带标签的data、没有办法来做监督学习（Supervised Learning）的情况下才去做的。如果有带标签的data，监督学习当然比强化学习更好；因此手上有什么样的data，就决定你使用什么样的scenario。</p>
 <p>红色方块指的是task，即要解决的问题。你要解的问题，随着你要找的function的output的不同，有输出数值（scalar）的回归（regression）、有输出选项（options）的分类（classification）、有输出结构体（structured object）的结构化学习（structured Learning)…</p>
 <p>绿色的方块指的是model，即用来解决问题的模型（function set）。在这些task里面有不畅通的model，也就是说，同样的task，我们可以用不同的方法来解决它，比如linear model、non-linear model（deep learning、SVM、decision tree、K-NN…）</p>
-<img src="https://anzhu.wang/images/ML/1.png" alt="error"/>
+<img src="https://anzhu.wang/images/ML/1.png" alt="error"  width="60%" height="60%"/>
 
 
 <h3 id="Supervised-Learning-监督学习"><a href="#Supervised-Learning-监督学习" class="headerlink" title="Supervised Learning 监督学习"></a>Supervised Learning 监督学习</h3><p>Supervised learning需要大量的training data，这些training data告诉我们说，一个我们要找的function，它的input和output之间有什么样的关系。</p>

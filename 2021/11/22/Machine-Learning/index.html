@@ -7,7 +7,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/img/default.jpg">
 <meta property="article:published_time" content="2021-11-22T08:02:59.782Z">
-<meta property="article:modified_time" content="2021-11-22T08:40:47.609Z">
+<meta property="article:modified_time" content="2021-11-22T08:42:43.111Z">
 <meta property="article:author" content="Zihan Wang">
 <meta property="article:tag" content="Zihan&#39;s Blog">
 <meta name="twitter:card" content="summary">
@@ -58,7 +58,7 @@
   isHome: false,
   isHighlightShrink: false,
   isToc: true,
-  postUpdate: '2021-11-22 19:10:47'
+  postUpdate: '2021-11-22 19:12:43'
 }</script><noscript><style type="text/css">
   #nav {
     opacity: 1
@@ -147,7 +147,7 @@
       }
     }
     detectApple()
-    })(window)</script><meta name="generator" content="Hexo 5.4.0"></head><body><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://anzhu.wang/images/portrait.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">Articles</div><div class="length-num">2</div></a></div></div></div><hr/></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url('https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/img/default.jpg')"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">Zihan's Blog</a></span><div id="menus"><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">Machine Learning</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">Created</span><time class="post-meta-date-created" datetime="2021-11-22T08:02:59.782Z" title="Created 2021-11-22 18:32:59">2021-11-22</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">Updated</span><time class="post-meta-date-updated" datetime="2021-11-22T08:40:47.609Z" title="Updated 2021-11-22 19:10:47">2021-11-22</time></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" id="" data-flag-title="Machine Learning"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">Post View:</span><span id="busuanzi_value_page_pv"></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><h1 id="1-Introduction"><a href="#1-Introduction" class="headerlink" title="1 Introduction"></a>1 Introduction</h1><blockquote>
+    })(window)</script><meta name="generator" content="Hexo 5.4.0"></head><body><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://anzhu.wang/images/portrait.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">Articles</div><div class="length-num">2</div></a></div></div></div><hr/></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url('https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/img/default.jpg')"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">Zihan's Blog</a></span><div id="menus"><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">Machine Learning</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">Created</span><time class="post-meta-date-created" datetime="2021-11-22T08:02:59.782Z" title="Created 2021-11-22 18:32:59">2021-11-22</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">Updated</span><time class="post-meta-date-updated" datetime="2021-11-22T08:42:43.111Z" title="Updated 2021-11-22 19:12:43">2021-11-22</time></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" id="" data-flag-title="Machine Learning"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">Post View:</span><span id="busuanzi_value_page_pv"></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><h1 id="1-Introduction"><a href="#1-Introduction" class="headerlink" title="1 Introduction"></a>1 Introduction</h1><blockquote>
 <p>define a set of function(model) -&gt; goodness of function -&gt; pick the best function</p>
 </blockquote>
 <h2 id="Learning-Map"><a href="#Learning-Map" class="headerlink" title="Learning Map"></a>Learning Map</h2><p>下图中，同样的颜色指的是同一个类型的事情。</p>
@@ -192,20 +192,20 @@
 </ul>
 <h3 id="Semi-supervised-Learning-半监督学习"><a href="#Semi-supervised-Learning-半监督学习" class="headerlink" title="Semi-supervised Learning 半监督学习"></a>Semi-supervised Learning 半监督学习</h3><p>举例：如果想要做一个区分猫和狗的function</p>
 <p>手头上有少量的labeled data，它们标注了图片上哪只是猫哪只是狗；同时又有大量的unlabeled data，它们仅仅是只有猫和狗的图片，但没有标注去告诉机器哪只是猫哪只是狗。</p>
-<img src="https://anzhu.wang/images/ML/2.png" alt="error"/>
+<img src="https://anzhu.wang/images/ML/2.png" alt="error" width="60%" height="60%"/>
 
 
 <h3 id="Transfer-Learning-迁移学习"><a href="#Transfer-Learning-迁移学习" class="headerlink" title="Transfer Learning 迁移学习"></a>Transfer Learning 迁移学习</h3><p>假设一样我们要做猫和狗的分类问题</p>
 <p>我们也一样只有少量的有labeled的data；但是我们现在有大量的不想干的data（不是猫和狗的图片，而是一些其他不想干的图片），在这些大量的data里面，它可能有label也可能没有label。</p>
 <p>Transfer Learning要解决的问题是，这一堆不相干的data可以对结果带来什么样的帮助。</p>
-<img src="https://anzhu.wang/images/ML/3.png" alt="error"/>
+<img src="https://anzhu.wang/images/ML/3.png" alt="error" width="60%" height="60%"/>
 
 
 <h3 id="Unsupervised-Learning-无监督学习"><a href="#Unsupervised-Learning-无监督学习" class="headerlink" title="Unsupervised Learning 无监督学习"></a>Unsupervised Learning 无监督学习</h3><p>区别于supervised learning，unsupervised learning虚妄机器学到无师自通，在完全没有任何label的情况下，机器能学到什么样的知识。</p>
 <p>举例来说，如果我们给机器看大量的文章，机器看过大量的文章后，它到底能够学到什么事情？它能不能学会每个词汇的意思？</p>
 <p>学会每个词汇的意思可以理解为：我们要找一个function，然后把一个词汇丢进去，机器要输出告诉你说这个词汇是什么意思，也许它用一个向量来表示这个词汇不同的特征，不同的attribute。</p>
 <p>又比如，我们带机器去逛动物园，给它看大量动物的图片，对于unsupervised learning来说，我们的data中只有给function的输入的大量图片，没有任何的输出标注；在这种情况下，机器该怎么学会根据testing data的输入来自己生成新的图片？</p>
-<img src="https://anzhu.wang/images/ML/4.png" alt="error"/>
+<img src="https://anzhu.wang/images/ML/4.png" alt="error" width="60%" height="60%"/>
 
 
 <h3 id="Structured-Learning-结构化学习"><a href="#Structured-Learning-结构化学习" class="headerlink" title="Structured Learning 结构化学习"></a>Structured Learning 结构化学习</h3><p>在structured learning里，我们要机器输出的是，一个有结构性的东西。</p>
@@ -213,7 +213,7 @@
 <p>举例来说，在语音识别的情境下，机器的输入是一个声音信号，输出是一个句子；句子是由许多词汇拼凑而成，它是一个有结构性的object。</p>
 <p>或者说机器翻译、人脸识别（标出不同的人的名称）</p>
 <p>比如<strong>GAN</strong>也是Structured Learning的一种方法。</p>
-<img src="https://anzhu.wang/images/ML/5.png" alt="error"/>
+<img src="https://anzhu.wang/images/ML/5.png" alt="error" width="60%" height="60%"/>
 
 
 
@@ -225,7 +225,7 @@
 <ul>
 <li>比如训练一个聊天机器人，让它跟客人直接对话；如果客人勃然大怒把电话挂掉了，那机器就学到一件事情，刚才做错了，它不知道自己哪里做错了，必须自己回去反省检讨到底要如何改进，比如一开始不应该打招呼吗？还是中间不能讲脏话之类的。</li>
 </ul>
-<img src="https://anzhu.wang/images/ML/6.png" alt="error"/>
+<img src="https://anzhu.wang/images/ML/6.png" alt="error" width="60%" height="60%"/>
 
 <p>再拿下棋这件事举例。supervised learning是说看到眼前这个棋盘，告诉机器下一步要走什么位置；而reinforcement learning是说让机器和对手互弈，下了好几手之后赢了，机器就知道这一棋局下的不错，但是哪一步是赢的关键，机器是不知道的，它只知道自己是赢了还是输了。</p>
 <p>其实Alha Go是用supervised learning+reinforcement learning的方式去学习的，机器先是从棋谱学习，有棋谱就可以supervised的学习；之后再做reinforcement learning，机器的对手是另外一台机器，Alpha。Go就是和自己下棋，然后不断的进步。</p>

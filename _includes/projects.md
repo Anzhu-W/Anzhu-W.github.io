@@ -80,7 +80,7 @@
     <div class="author">Liyang Liu, <strong>Zihan Wang</strong>, Minh Hieu Phan, Bowen Zhang, Jinchao Ge, Yifan Liu. </div>
     <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, Oct. 2023.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/https://openaccess.thecvf.com/content/WACV2024/papers/Liu_BPKD_Boundary_Privileged_Knowledge_Distillation_for_Semantic_Segmentation_WACV_2024_paper.pdf.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/pdf/https://openaccess.thecvf.com/content/WACV2024/papers/Liu_BPKD_Boundary_Privileged_Knowledge_Distillation_for_Semantic_Segmentation_WACV_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="assets/files/place_holder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>

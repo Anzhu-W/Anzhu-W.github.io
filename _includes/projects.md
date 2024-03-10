@@ -18,8 +18,7 @@
     <div class="author"><strong>Zihan Wang</strong>, Zhongkui Ma, Xinguo Feng, Ruoxi Sun, Hu Wang, Minhui Xue, Guangdong Bai.</div>
     <div class="periodical"><em>IEEE Symposium on Security and Privacy <strong>(Oakland S&P)</strong>, Mar. 2024.</em></div>
     <div class="links">
-    <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/pdf/place_holder.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
@@ -39,9 +38,8 @@
     <div class="author">Shuofeng Liu, <strong>Zihan Wang</strong>, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. </div>
     <div class="periodical"><em>USENIX Security, Mar. 2024.</em></div>
     <div class="links">
-    <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <a href="https://arxiv.org/pdf/place_holder.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/place_holders.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
 </div>
@@ -62,9 +60,8 @@
     <div class="periodical"><em>IEEE Transactions on Computational Social Systems
  <strong>(TCSS)</strong>, Dec. 2023.</em></div>
     <div class="links">
-    <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <a href="https://arxiv.org/pdf/place_holder.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/place_holder.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
 </div>
@@ -85,9 +82,8 @@
     <div class="author">Pingyi Hu*, <strong>Zihan Wang*</strong>, Ruoxi Sun, Hu Wang, Minhui Xue.</div>
     <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, Sep. 2023.</em></div>
     <div class="links">
-    <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <a href="https://arxiv.org/pdf/place_holder.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="assets/files/place_holder.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>
 </div>

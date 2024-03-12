@@ -100,7 +100,7 @@
     <div class="title"><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf">M<sup>4</sup>I: Multi-modal Models Membership Inference
 </a></div>
     <div class="author">Pingyi Hu*, <strong>Zihan Wang*</strong>, Ruoxi Sun, Hu Wang, Minhui Xue.</div>
-    <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, Sep. 2023.</em></div>
+    <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, Sep. 2022.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/place_holder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="assets/files/place_holder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>

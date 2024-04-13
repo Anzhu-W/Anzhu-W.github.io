@@ -14,7 +14,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/place_holder">CoreLocker: Neuron-level Usage Control for AI Models</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/place_holder">CoreLocker: Neuron-level Usage Control</a></div>
     <div class="author"><strong>Zihan Wang</strong>, Zhongkui Ma, Xinguo Feng, Ruoxi Sun, Hu Wang, Minhui Xue, Guangdong Bai.</div>
     <div class="periodical"><em>IEEE Symposium on Security and Privacy <strong>(Oakland S&P)</strong>, Mar. 2024.</em></div>
     <div class="links">

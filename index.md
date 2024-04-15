@@ -19,6 +19,7 @@ I'm a first-year Ph.D. student at the School of Electrical Engineering and Compu
 - **[Dec. 2023]** Our paper on deep data hiding is accepted by IEEE TCSS.
 - **[Oct. 2023]** Our paper on knowledge distillation is accepted by WACV'24.
 - **[Aug. 2023]** Our paper on formalizing neural network perturbation  is accepted by ICFEM'23.
+- **[Dec. 2022]** Presenting our paper at NeurIPS 2022 in New Orleans, USA. <a href="https:/assets/img/22nips.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Photo</a>
 - **[Sep. 2022]** Our paper on multi-modal model membership inference is accepted by NeurIPS'22.
 
 

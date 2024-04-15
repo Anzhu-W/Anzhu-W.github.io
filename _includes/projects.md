@@ -10,7 +10,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/sp24.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Oakland'24</abbr>
+    <abbr class="badge">S&P'24</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -36,7 +36,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation</a></div>
     <div class="author">Shuofeng Liu, <strong>Zihan Wang</strong>, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. </div>
-    <div class="periodical"><em>USENIX Security, Mar. 2024.</em></div>
+    <div class="periodical"><em>USENIX Security, Feb. 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/place_holder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="assets/files/place_holder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>

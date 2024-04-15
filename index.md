@@ -14,7 +14,7 @@ I'm a first-year Ph.D. student at the School of Electrical Engineering and Compu
 
 
 ## News
-- **[Mar. 2024]** Our paper on neural network usage control is accepted by Oakland S&P’24.
+- **[Mar. 2024]** Our paper on neural network usage control is accepted by IEEE S&P (Oakland)’24.
 - **[Feb. 2024]** Our paper on algorithmic purpose limitation is accepted by USENIX Security’24.
 - **[Dec. 2023]** Our paper on deep data hiding is accepted by IEEE TCSS.
 - **[Oct. 2023]** Our paper on knowledge distillation is accepted by WACV'24.

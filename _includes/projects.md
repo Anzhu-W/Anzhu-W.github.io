@@ -14,11 +14,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/place_holder">CoreLocker: Neuron-level Usage Control</a></div>
+    <div class="title"><a href="https://www.zihan.com.au/assets/files/SP24CoreLocker">CoreLocker: Neuron-level Usage Control</a></div>
     <div class="author"><strong>Zihan Wang</strong>, Zhongkui Ma, Xinguo Feng, Ruoxi Sun, Hu Wang, Minhui Xue, Guangdong Bai.</div>
     <div class="periodical"><em>IEEE Symposium on Security and Privacy <strong>(Oakland S&P)</strong>, Mar. 2024.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/place_holder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="assets/files/place_holder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>

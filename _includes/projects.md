@@ -19,7 +19,7 @@
     <div class="periodical"><em>IEEE Symposium on Security and Privacy <strong>(Oakland S&P)</strong>, Mar. 2024.</em></div>
     <div class="links">
       <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="../SP24CoreLocker.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="../SP24CoreLocker.html" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">Website</a>
       <a href="assets/files/place_holder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
     </div>
   </div>

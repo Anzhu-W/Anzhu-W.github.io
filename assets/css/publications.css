@@ -190,6 +190,7 @@ screen and (min-width: 480px) {
   width: 350%; /* Adjust this based on the desired width of your dropdown */
   z-index: 1000; /* Ensures it overlays other content */
   background-color: white; /* Optionally set a background color */
+  left: 100px; /* Adjust this value to add space to the left */
 }
 
 .publications ol.bibliography li .links a.btn:hover {

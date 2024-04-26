@@ -20,16 +20,14 @@
     <div class="links">
       <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="../SP24CoreLocker.html" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">Website</a>
-<!--       <a href="assets/files/place_holder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-       -->
       <details>
         <summary class="btn btn-sm z-depth-0">BibTeX</summary>
         <pre style="font-size:10px;">
-@inproceedings{kingma2014adam,
-  title={Adam: A method for stochastic optimization},
-  author={Kingma, Diederik P and Ba, Jimmy},
-  booktitle={International Conference on Learning Representations (ICLR)},
-  year={2015}
+@inproceedings{wang2024corelocker,
+  title={CoreLocker: Neuron-level Usage Control},
+  author={Wang, Zihan and Ma, Zhongkui and Feng, Xinguo and Sun, Ruoxi and Wang, Hu and Xue, Minhui and Bai, Guangdong.},
+  booktitle={IEEE Symposium on Security and Privacy (S\&P)},
+  year={2024}
 }        </pre>
     </details>
     </div>
@@ -51,7 +49,16 @@
     <div class="periodical"><em>USENIX Security, Feb. 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/place_holder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="assets/files/place_holder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <details>
+        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
+        <pre style="font-size:10px;">
+@inproceedings{liu2024purpose,
+  title={Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation},
+  author={Liu, Shuofeng and Wang, Zihan and Xue, Minhui and Wang, Long and Zhang, Yuanchao and Bai, Guangdong.},
+  journal={USENIX Security},
+  year={2024}
+}        </pre>
+    </details>
     </div>
   </div>
 </div>
@@ -73,7 +80,17 @@
  <strong>(TCSS)</strong>, Dec. 2023.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/10123415" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="assets/files/place_holder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <details>
+        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
+        <pre style="font-size:10px;">
+@article{wang2023data,
+  title={Data hiding with deep learning: a survey unifying digital watermarking and steganography},
+  author={Wang, Zihan and Byrnes, Olivia and Wang, Hu and Sun, Ruoxi and Ma, Congbo and Chen, Huaming and Wu, Qi and Xue, Minhui},
+  journal={IEEE Transactions on Computational Social Systems},
+  year={2023},
+  publisher={IEEE}
+}        </pre>
+    </details>
     </div>
   </div>
 </div>
@@ -93,8 +110,17 @@
     <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, Oct. 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/https://openaccess.thecvf.com/content/WACV2024/papers/Liu_BPKD_Boundary_Privileged_Knowledge_Distillation_for_Semantic_Segmentation_WACV_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="assets/files/place_holder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-    </div>
+    <details>
+        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
+        <pre style="font-size:10px;">
+@inproceedings{liu2024bpkd,
+  title={BPKD: Boundary Privileged Knowledge Distillation For Semantic Segmentation},
+  author={Liu, Liyang and Wang, Zihan and Phan, Minh Hieu and Zhang, Bowen and Ge, Jinchao and Liu, Yifan},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={1062--1072},
+  year={2024}
+}        </pre>
+    </details>    </div>
   </div>
 </div>
 </li>
@@ -115,7 +141,18 @@
     <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, Sep. 2022.</em></div>
     <div class="links">
       <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="assets/files/place_holder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+    <details>
+        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
+        <pre style="font-size:10px;">
+@inproceedings{hu2022m,
+  title={M $\^{} 4$ I: Multi-modal Models Membership Inference},
+  author={Hu, Pingyi and Wang, Zihan and Sun, Ruoxi and Wang, Hu and Xue, Minhui},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={1867--1882},
+  year={2022}
+}        </pre>
+    </details>
     </div>
   </div>
 </div>

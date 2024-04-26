@@ -20,7 +20,7 @@
     <div class="links">
       <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="../SP24CoreLocker.html" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">Website</a>
-      <details>
+      <details id="bibtexDetails">
         <summary class="btn btn-sm z-depth-0">BibTeX</summary>
         <pre style="font-size:10px;">
 @inproceedings{wang2024corelocker,
@@ -49,7 +49,7 @@
     <div class="periodical"><em>USENIX Security, Feb. 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/place_holder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <details>
+      <details id="bibtexDetails">
         <summary class="btn btn-sm z-depth-0">BibTeX</summary>
         <pre style="font-size:10px;">
 @inproceedings{liu2024purpose,
@@ -80,7 +80,7 @@
  <strong>(TCSS)</strong>, Dec. 2023.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/10123415" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <details>
+      <details id="bibtexDetails">
         <summary class="btn btn-sm z-depth-0">BibTeX</summary>
         <pre style="font-size:10px;">
 @article{wang2023data,
@@ -110,7 +110,7 @@
     <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, Oct. 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/https://openaccess.thecvf.com/content/WACV2024/papers/Liu_BPKD_Boundary_Privileged_Knowledge_Distillation_for_Semantic_Segmentation_WACV_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    <details>
+    <details id="bibtexDetails">
         <summary class="btn btn-sm z-depth-0">BibTeX</summary>
         <pre style="font-size:10px;">
 @inproceedings{liu2024bpkd,
@@ -141,7 +141,7 @@
     <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, Sep. 2022.</em></div>
     <div class="links">
       <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    <details>
+    <details id="bibtexDetails">
         <summary class="btn btn-sm z-depth-0">BibTeX</summary>
         <pre style="font-size:10px;">
 @inproceedings{hu2022m,
@@ -162,3 +162,20 @@
 
 </ol>
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() { // Ensure the DOM is fully loaded
+    var detailsElement = document.getElementById('bibtexDetails');
+    if (detailsElement) {
+      detailsElement.addEventListener('toggle', function(event) {
+        if (this.open) {
+          setTimeout(() => {
+            this.removeAttribute('open');
+          }, 5000);
+        }
+      });
+    } else {
+      console.error('Details element not found!');
+    }
+  });
+</script>

@@ -158,6 +158,40 @@ screen and (min-width: 480px) {
 
 }
 
+.publications ol.bibliography li .links summary.btn {
+  color: #000000;
+  background-color: #FFF;
+  border: 1px solid #000000;
+  padding: 0.1rem 0.5rem;
+  cursor: pointer;
+  text-align: center;
+  display: inline-block;  /* or 'block' depending on your layout needs */
+  font-size: 12px;       /* match the font size from your a.btn class if different */
+  line-height: normal;   /* adjust based on your design */
+  margin-right: 10px;    /* to maintain spacing between consecutive buttons */
+}
+
+.publications ol.bibliography li .links details {
+  display: inline-block; /* or 'flex' depending on your layout */
+  vertical-align: top; /* aligns it with the top of other inline-block elements */
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: none;
+}
+
+.publications ol.bibliography li .links {
+  position: relative; /* Added to contain the absolute positioning of the details */
+  display: inline-block; /* Keeps the link area properly inline */
+}
+
+.publications ol.bibliography li .links details {
+  position: absolute;
+  width: 350%; /* Adjust this based on the desired width of your dropdown */
+  z-index: 1000; /* Ensures it overlays other content */
+  background-color: white; /* Optionally set a background color */
+}
+
 .publications ol.bibliography li .links a.btn:hover {
   color: var(--global-theme-color);
   border-color: var(--global-theme-color);

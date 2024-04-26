@@ -146,53 +146,57 @@ screen and (min-width: 480px) {
   padding-bottom: 0.1rem;
 }
 
-@media (prefers-color-scheme: dark) {
-  .publications ol.bibliography li .links a.btn {
-    color: #FFFFFF;
-    border: 1px solid #FFFFFF;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-    padding-top: 0.1rem;
-    padding-bottom: 0.1rem;
-  }
-
+.links {
+  position: relative; /* Container needs relative positioning */
+  font-size: 0; /* Eliminates whitespace nodes causing alignment issues */
 }
 
-.publications ol.bibliography li .links summary.btn {
+.links a.btn, .links summary.btn {
   color: #000000;
   background-color: #FFF;
   border: 1px solid #000000;
   padding: 0.1rem 0.5rem;
-  padding-top: 0.1rem;
-  padding-bottom: 0.1rem;
   cursor: pointer;
-  text-align: center;
-  display: inline-block;  /* or 'block' depending on your layout needs */
-  font-size: 12px;       /* match the font size from your a.btn class if different */
-  line-height: normal;   /* adjust based on your design */
-  margin-right: 10px;    /* to maintain spacing between consecutive buttons */
+  display: inline-block;
+  font-size: 12px; /* Reset font-size to maintain consistency */
+  vertical-align: middle; /* Aligns elements vertically */
+  margin-right: 4px; /* Consistent margin for spacing */
+  transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+  line-height: normal; /* Adjust line-height to match design */
 }
 
-.publications ol.bibliography li .links details {
-  display: inline-block; /* or 'flex' depending on your layout */
-  vertical-align: top; /* aligns it with the top of other inline-block elements */
+.links details {
+  display: inline-block; /* Maintains inline flow without breaking line */
+  vertical-align: middle; /* Aligns with other button-like elements */
   margin: 0;
   padding: 0;
   border: none;
   background: none;
 }
 
-.publications ol.bibliography li .links {
-  position: relative; /* Added to contain the absolute positioning of the details */
-  display: inline-block; /* Keeps the link area properly inline */
+.links details pre {
+  position: absolute; /* Absolutely position the dropdown */
+  z-index: 1000; /* Ensure it sits on top of other elements */
+  width: 100%; /* Adjust width as needed */
+  left: 0; /* Aligns to the left of the parent */
+  background: #f8f9fa; /* Light gray background for the dropdown */
+  border-radius: 0.25rem;
+  margin-top: 0.2rem; /* Adds a slight space below the button */
+  padding: 0.5rem; /* Padding inside the dropdown */
+  white-space: pre-wrap; /* Ensures text wraps as needed */
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1); /* Optional shadow for visibility */
 }
 
-.publications ol.bibliography li .links details {
-  position: absolute;
-  width: 350%; /* Adjust this based on the desired width of your dropdown */
-  z-index: 1000; /* Ensures it overlays other content */
-  background-color: white; /* Optionally set a background color */
-  left: 100px; /* Adjust this value to add space to the left */
+@media (prefers-color-scheme: dark) {
+  .links a.btn, .links summary.btn {
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+  }
+
+  .links a.btn:hover, .links summary.btn:hover {
+    color: var(--global-theme-color);
+    border-color: var(--global-theme-color);
+  }
 }
 
 .publications ol.bibliography li .links a.btn:hover {

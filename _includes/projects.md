@@ -44,11 +44,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation</a></div>
+    <div class="title"><a href="https://github.com/shuofeng-uq/Publications/blob/main/_USENIX__24__Camera_Ready_Being_Transparent_is_Merely_the_Begining__Enforcing_Purpose_Limitation_with_Polynomial_Approximation.pdf" target="_blank">Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation</a></div>
     <div class="author">Shuofeng Liu, <strong>Zihan Wang</strong>, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. </div>
     <div class="periodical"><em>USENIX Security, Feb. 2024.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/place_holder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/shuofeng-uq/Publications/blob/main/_USENIX__24__Camera_Ready_Being_Transparent_is_Merely_the_Begining__Enforcing_Purpose_Limitation_with_Polynomial_Approximation.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <details class="auto-close">
         <summary class="btn btn-sm z-depth-0">BibTeX</summary>
         <pre style="font-size:10px;">

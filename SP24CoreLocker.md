@@ -14,7 +14,7 @@ layout: homepage
     </script>
 </head>
 
-# Neuron-level Usage Control <sup style="font-size:13pt;">[<i>IEEE S&P 2024</i>]</sup>
+# Neuron-level Usage Control <sup style="font-size:13pt;">[<i>S&P'24</i>]</sup>
 
 <div style="height: 20px;"></div>
 

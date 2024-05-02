@@ -16,7 +16,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf">CoreLocker: Neuron-level Usage Control</a></div>
     <div class="author"><strong>Zihan Wang</strong>, Zhongkui Ma, Xinguo Feng, Ruoxi Sun, Hu Wang, Minhui Xue, Guangdong Bai.</div>
-    <div class="periodical"><em>IEEE Symposium on Security and Privacy <strong>(Oakland S&P)</strong>, Mar. 2024.</em></div>
+    <div class="periodical"><em>IEEE Symposium on Security and Privacy <strong>(Oakland)</strong>, Mar. 2024.</em></div>
     <div class="links">
       <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="../SP24CoreLocker.html" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">Website</a>

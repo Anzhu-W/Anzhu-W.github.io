@@ -21,7 +21,7 @@ I began my Ph.D. studies in 2023 at the School of Electrical Engineering and Com
 - **[Dec. 2023]** Our paper on deep data hiding is accepted by IEEE TCSS.
 - **[Oct. 2023]** Our paper on knowledge distillation is accepted by WACV'24.
 - **[Aug. 2023]** Our paper on formalizing neural network perturbation  is accepted by ICFEM'23.
-- **[Dec. 2022]** I obtained my Bachelor of Computer Science (Advanced) from the University of Adelaide!
+- **[Dec. 2022]** I obtained my Bachelor of Comp. Sci. (Advanced) from the University of Adelaide!
 - **[Dec. 2022]** Presenting our paper at NeurIPS'22 in New Orleans, USA. <a href="https:/assets/img/22nips.webp" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">[Photo]</a>
 - **[Sep. 2022]** Our paper on multi-modal model membership inference is accepted by NeurIPS'22.
 

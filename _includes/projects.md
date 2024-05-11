@@ -27,6 +27,9 @@
   title={CoreLocker: Neuron-level Usage Control},
   author={Wang, Zihan and Ma, Zhongkui and Feng, Xinguo and Sun, Ruoxi and Wang, Hu and Xue, Minhui and Bai, Guangdong.},
   booktitle={IEEE Symposium on Security and Privacy (S\&P)},
+  doi = {10.1109/SP54263.2024.00182},
+  url = {https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00182},
+  pages = {222-222},
   year={2024}
 }        </pre>
     </details>

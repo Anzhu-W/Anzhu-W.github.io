@@ -15,7 +15,6 @@ I began my Ph.D. studies in 2023 at the School of Electrical Engineering and Com
 
 
 ## News
-- **[May. 2024]** I have received the IEEE S&P'24 Travel Grant Award!
 - **[Mar. 2024]** Our paper on neural network usage control is accepted by IEEE S&P (Oakland)’24.
 - **[Feb. 2024]** Our paper on algorithmic purpose limitation is accepted by USENIX Security’24.
 - **[Dec. 2023]** Our paper on deep data hiding is accepted by IEEE TCSS.
@@ -25,6 +24,9 @@ I began my Ph.D. studies in 2023 at the School of Electrical Engineering and Com
 - **[Dec. 2022]** Presenting our paper at NeurIPS'22 in New Orleans, USA. <a href="https:/assets/img/22nips.webp" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">[Photo]</a>
 - **[Sep. 2022]** Our paper on multi-modal model membership inference is accepted by NeurIPS'22.
 
+
+## Invited Talks
+School of Computing, National University of Singapore (NUS), May 2024. *Neuron-level Usage Control*.
 
 
 {% include_relative _includes/projects.md %}

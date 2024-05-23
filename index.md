@@ -26,7 +26,7 @@ I began my Ph.D. studies in 2023 at the School of Electrical Engineering and Com
 
 
 ## Invited Talks
-School of Computing, National University of Singapore (NUS), May 2024. *Neuron-level Usage Control*.
+School of Computing, National University of Singapore (NUS), May 2024. *Neuron-level Usage Control for AI Models*.
 
 
 {% include_relative _includes/projects.md %}

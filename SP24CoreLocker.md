@@ -47,7 +47,8 @@ This capability holds broad applicability in online services such as machine lea
 Real-world examples include cutout.pro and together.ai, which provide models with free low utility options or varying capabilities at different price points. Specifically, we aim to answer the research question of *how to degrade a model's performance to a lower utility level while ensuring that the full utility can be efficiently restored by authorized controllers?*
 
 <div align="center">
-    <img src="./assets/img/sp24.gif" alt="animation" width="40%">
+    <img src="./assets/img/sp24.gif" alt="disparity change" style="width: 40%; display: inline-block;">
+    <img src="./assets/img/animate2.gif" alt="extraction animation" style="width: 40%; display: inline-block;">
 </div>
 
 

@@ -68,11 +68,13 @@ In particular, it employs an efficient *selective weight removal*, based on the 
 We provide a robust formal foundation for **CoreLocker**'s neuron-level usage control, which establishes both lower and upper bounds of the proximity and disparity among $f^{\*}$, $f^{\alpha}$, and $f^0$. Our formalization captures two essential characteristics of neural networks, including the *distribution preservation* during training and the *impact concentration* of weights. This formalization enables the use of probabilistic approaches to analyze the behavior of the trained network, by highlighting that the weights of a trained network preserve the probability distribution established during initialization.
 The impact concentration underscores that *the performance of a neural network is largely reliant on a crucial subset of weights*. This concept is seemingly the dual of the principle behind various pruning studies that the majority of neurons can be pruned with negligible impact. Despite the pruning principle formally proved by a recent study, establishing a formal proof for impact concentration is more challenging, as it has to handle duplication and correlation among neurons. We for the first time address it in this work through deriving the bounds of the gaps among the outputs of $f^{\*}$ and $f^{\alpha}$ layer by layer. 
 
-
+<div style="height: 20px;"></div>
 # Slides
+<div style="height: 20px;"></div>
 <!-- Embed PDF here -->
 <iframe src="assets/others/updated_version.pdf"></iframe>
 
+<div style="height: 40px;"></div>
 
 
-[Back](./)
+# [Back](./)

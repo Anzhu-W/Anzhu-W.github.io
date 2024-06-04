@@ -55,7 +55,7 @@ Real-world examples include cutout.pro and together.ai, which provide models wit
 We propose **CoreLocker**, which locks a minimal subset of neurons from the pre-protected neural network (denoted as $f^{\*}$), parameterized by $0 < \alpha < 1$, leading to a subnetwork of $f^{\*}$ with partial or none utility (which is thus denoted as $f^{\alpha}$). We formalize an ideally-unusable network (denoted as $f^0$) which conducts random inference, and in the extreme requirement where the capability of the network needs to be fully hidden, the resulting $f^{\alpha}$ should be proximate to $f^0$ in its performance, i.e., $f^{\*} \gg f^{\alpha} \approx f^0$ if we abuse $f^{-}$ to denote the performance of themselves. **CoreLocker** aims for a *training data-agnostic* and *retraining-free* process by directly operating on off-the-shelf pre-trained networks, making it well-suited for seamless integration across diverse neural network architectures. 
 
 <div align="center">
-    <img src="./assets/img/sp24_flow.png" alt="curve" width="80%">
+    <img src="./assets/img/sp24_flow.pdf" alt="workflow" width="80%">
 </div>
 
 **CoreLocker**'s solution stems from an intuitive yet compelling insight: if the performance of a neural network is disproportionately dependent on a specific small subset of critical weights, removing these weights is likely to have the potential to incapacitate the network. 

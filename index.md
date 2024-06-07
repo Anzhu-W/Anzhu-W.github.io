@@ -11,7 +11,7 @@ I began my Ph.D. studies in 2023 at the School of Electrical Engineering and Com
 
 ## Research Interests
 - **Trustworthy and Responsible AI:** usage control (IEEE S&P24), purpose limitation (USENIX Security24), data hiding (IEEE TCSS).
-- **Machine Learning:** model compression (IEEE S&P24, WACV24), membership inference (NeurIPS22).
+- **Machine Learning:** model compression (S&P24, WACV24), membership inference (NeurIPS22).
 
 
 ## News

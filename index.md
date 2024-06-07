@@ -10,8 +10,8 @@ I began my Ph.D. studies in 2023 at the School of Electrical Engineering and Com
 
 
 ## Research Interests
-- **Machine Learning:** usage control, access control, model compression.
-- **Privacy Compliance and Enforcement:** purpose limitation, right to be forgotten.
+- **Trustworthy and Responsible AI:** usage control (IEEE S&P24), purpose limitation (USENIX Security24), data hiding (IEEE TCSS).
+- **Machine Learning:** model compression (IEEE S&P24, WACV24), membership inference (NeurIPS22).
 
 
 ## News
@@ -26,7 +26,7 @@ I began my Ph.D. studies in 2023 at the School of Electrical Engineering and Com
 
 
 ## Invited Talks
-School of Computing, National University of Singapore (NUS), May 2024. *Neuron-level Usage Control for AI Models*.
+- **[May. 2024]** *Neuron-level Usage Control for AI Models*, School of Computing, National University of Singapore (NUS).
 
 
 {% include_relative _includes/projects.md %}

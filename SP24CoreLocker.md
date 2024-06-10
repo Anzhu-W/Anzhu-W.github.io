@@ -38,7 +38,7 @@ This includes sophisticated architectural design, extensive high-quality data, m
 In contrast to the traditional deployment of DNN models within the server or cloud under the direct control of the model owner, various scenarios, such as commercial partnerships, consulting services, and on-device inference, entail the transfer of the model to an external party, referred to as the *model controller*. Nevertheless, once the model is handed over to the model controller, the owner loses control over it. Indeed, a recent study on 1,468 mobile apps uncovers that 41% of them fail to secure their DNN models against on-device model inference attacks, allowing the attacker to extract all model parameters through reverse engineering. Consequently, unethical controllers may exploit the obtained model for unscrupulous competition or unauthorized subletting, posing financial losses for the model owners. Moreover, malicious controllers can abuse the model to facilitate the generation of adversarial examples to attack the model owner's legitimate services. 
 
 <div align="center">
-    <img src="./assets/img/sp24_intro1.png" alt="intro" width="80%">
+    <img src="./assets/img/sp24_intro2.png" alt="intro" width="80%">
 </div>
 
 Two lines of research are seemingly potential to alleviate this challenge, including *passive methods* and *active methods*.

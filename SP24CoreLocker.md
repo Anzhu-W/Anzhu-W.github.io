@@ -31,7 +31,15 @@ layout: homepage
 Deep neural networks (DNNs) have seen remarkable success in various fields, yet developing a high-quality model often demands substantial resources.
 This includes sophisticated architectural design, extensive high-quality data, meticulous fine-tuning, and optimization, and substantial computational power. Taking GPT-3 as an example, it consists of 175 billion parameters and takes 355 GPU-years and \$4.6M for a single training run. A model thus represents a valuable intellectual property (IP), and transforms into a treasure of its developer. For instance, a recent study by Fortune shows that ChatGPT has attracted 100 million active users two months after its launch, and earns 80 million dollars per month for OpenAI. 
 
+<div align="center">
+    <img src="./assets/img/sp24_intro1.png" alt="intro" width="80%">
+</div>
+
 In contrast to the traditional deployment of DNN models within the server or cloud under the direct control of the model owner, various scenarios, such as commercial partnerships, consulting services, and on-device inference, entail the transfer of the model to an external party, referred to as the *model controller*. Nevertheless, once the model is handed over to the model controller, the owner loses control over it. Indeed, a recent study on 1,468 mobile apps uncovers that 41% of them fail to secure their DNN models against on-device model inference attacks, allowing the attacker to extract all model parameters through reverse engineering. Consequently, unethical controllers may exploit the obtained model for unscrupulous competition or unauthorized subletting, posing financial losses for the model owners. Moreover, malicious controllers can abuse the model to facilitate the generation of adversarial examples to attack the model owner's legitimate services. 
+
+<div align="center">
+    <img src="./assets/img/sp24_intro1.png" alt="intro" width="80%">
+</div>
 
 Two lines of research are seemingly potential to alleviate this challenge, including *passive methods* and *active methods*.
 Passive methods involve embedding a watermark or signature into the model, which manifests only when certain inputs are given to the model, enabling the owner to claim the ownership of the model. 
@@ -55,7 +63,7 @@ Real-world examples include cutout.pro and together.ai, which provide models wit
 We propose **CoreLocker**, which locks a minimal subset of neurons from the pre-protected neural network (denoted as $f^{\*}$), parameterized by $0 < \alpha < 1$, leading to a subnetwork of $f^{\*}$ with partial or none utility (which is thus denoted as $f^{\alpha}$). We formalize an ideally-unusable network (denoted as $f^0$) which conducts random inference, and in the extreme requirement where the capability of the network needs to be fully hidden, the resulting $f^{\alpha}$ should be proximate to $f^0$ in its performance, i.e., $f^{\*} \gg f^{\alpha} \approx f^0$ if we abuse $f^{-}$ to denote the performance of themselves. **CoreLocker** aims for a *training data-agnostic* and *retraining-free* process by directly operating on off-the-shelf pre-trained networks, making it well-suited for seamless integration across diverse neural network architectures. 
 
 <div align="center">
-    <img src="./assets/img/sp24_flow.png" alt="workflow" width="80%">
+    <img src="./assets/img/sp24_flow.png" alt="workflow" width="100%">
 </div>
 
 **CoreLocker**'s solution stems from an intuitive yet compelling insight: if the performance of a neural network is disproportionately dependent on a specific small subset of critical weights, removing these weights is likely to have the potential to incapacitate the network. 

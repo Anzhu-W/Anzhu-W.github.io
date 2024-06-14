@@ -10,8 +10,11 @@ I began my Ph.D. studies in 2023 at the School of Electrical Engineering and Com
 
 
 ## Research Interests
-- **Trustworthy and Responsible AI:** usage control (IEEE S&P24), purpose limitation (USENIX Security24), data hiding (IEEE TCSS).
-- **Machine Learning:** model compression (S&P24, WACV24), membership inference (NeurIPS22).
+- **Trustworthy and Responsible AI:**
+  - Neural Network Usage Control (IEEE S&P24)
+  - Purpose Limitation (USENIX Security24)
+  - Privacy Leakage (NeurIPS22, IEEE TCSS)
+
 
 
 ## News
@@ -26,7 +29,7 @@ I began my Ph.D. studies in 2023 at the School of Electrical Engineering and Com
 
 
 ## Invited Talks
-- **[May. 2024]** *Neuron-level Usage Control for AI Models*, School of Computing, National University of Singapore (NUS).
+- **[May. 2024]** *Neuron-level Usage Control for AI Models*, SoC, National University of Singapore (NUS).
 
 
 {% include_relative _includes/projects.md %}

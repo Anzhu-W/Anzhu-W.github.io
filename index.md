@@ -14,6 +14,9 @@ I began my Ph.D. studies in 2023 at the School of Electrical Engineering and Com
   - Neural Network Usage Control (IEEE S&P24)
   - Purpose Limitation (USENIX Security24)
   - Privacy Leakage (NeurIPS22, IEEE TCSS)
+- **Neural Network Compression:**
+  - Pruning (IEEE S&P24)
+  - Knowledge Distillation (WACV24)
 
 
 

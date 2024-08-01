@@ -9,7 +9,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/sp24.gif" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/sp_cover.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">S&P'24</abbr>
   </div>
 
@@ -112,7 +112,7 @@
     <div class="author">Liyang Liu, <strong>Zihan Wang</strong>, Minh Hieu Phan, Bowen Zhang, Jinchao Ge, Yifan Liu. </div>
     <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, Oct. 2023.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/https://openaccess.thecvf.com/content/WACV2024/papers/Liu_BPKD_Boundary_Privileged_Knowledge_Distillation_for_Semantic_Segmentation_WACV_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Liu_BPKD_Boundary_Privileged_Knowledge_Distillation_for_Semantic_Segmentation_WACV_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     <details class="auto-close">
         <summary class="btn btn-sm z-depth-0">BibTeX</summary>
         <pre style="font-size:10px;">

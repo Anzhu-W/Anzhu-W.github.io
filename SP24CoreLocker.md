@@ -15,7 +15,7 @@ layout: homepage
     <style>
         iframe {
             width: 100%;
-            height: calc(100vh - 100px); /* Adjust 100px based on your header/footer size */
+            height: calc(100vh - 100px);
             border: none;
         }
     </style>
@@ -28,7 +28,7 @@ layout: homepage
 <div style="height: 20px;"></div>
 
 <div align="center">
-    <img src="./assets/img/sp_cover.png" alt="cover image" width="85%">
+    <img src="./assets/img/sp_cover.png" alt="cover image" width="100%">
 </div>
 
 ## Background

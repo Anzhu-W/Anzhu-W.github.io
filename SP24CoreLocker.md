@@ -27,6 +27,10 @@ layout: homepage
 
 <div style="height: 20px;"></div>
 
+<div align="center">
+    <img src="./assets/img/sp_cover.png" alt="cover image" width="85%">
+</div>
+
 ## Background
 Deep neural networks (DNNs) have seen remarkable success in various fields, yet developing a high-quality model often demands substantial resources.
 This includes sophisticated architectural design, extensive high-quality data, meticulous fine-tuning, and optimization, and substantial computational power. Taking GPT-3 as an example, it consists of 175 billion parameters and takes 355 GPU-years and \$4.6M for a single training run. A model thus represents a valuable intellectual property (IP), and transforms into a treasure of its developer. For instance, a recent study by Fortune shows that ChatGPT has attracted 100 million active users two months after its launch, and earns 80 million dollars per month for OpenAI. 

@@ -153,7 +153,7 @@ screen and (min-width: 480px) {
 
 .links a.btn, .links summary.btn {
   color: #000000;
-  background-color: #FFF;
+  /*background-color: #FFF;*/
   border: 1px solid #000000;
   padding: 0.1rem 0.5rem;
   cursor: pointer;

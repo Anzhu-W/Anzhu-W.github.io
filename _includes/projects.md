@@ -38,6 +38,63 @@
 </div>
 </li>
 
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/usenix24.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">USENIX'24</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" target="_blank">Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation</a></div>
+    <div class="author">Shuofeng Liu, <strong>Zihan Wang</strong>, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. </div>
+    <div class="periodical"><em>USENIX Security, Feb. 2024.</em></div>
+    <div class="links">
+      <a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <details class="auto-close">
+        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
+        <pre style="font-size:10px;">
+@inproceedings{liu2024purpose,
+  title={Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation},
+  author={Liu, Shuofeng and Wang, Zihan and Xue, Minhui and Wang, Long and Zhang, Yuanchao and Bai, Guangdong.},
+  journal={USENIX Security},
+  year={2024}
+}        </pre>
+    </details>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://raw.githubusercontent.com/UQ-Trust-Lab/UQ-Trust-Lab.github.io/master/static/covers/grab_ccs.webp" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CCS'24</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="" target="_blank">Uncovering Gradient Inversion Risks in Practical Language Model Training</a></div>
+    <div class="author">Xinguo Feng, Zhongkui Ma, <strong>Zihan Wang</strong>, Chegne Eu Joe, Mengyao Ma, Alsharif Abuadbba, Guangdong Bai. </div>
+    <div class="periodical"><em>ACM Computer and Communications Security Conference (CCS), Aug. 2024.</em></div>
+    <div class="links">
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <details class="auto-close">
+        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
+        <pre style="font-size:10px;">
+@inproceedings{
+}        </pre>
+    </details>
+    </div>
+  </div>
+</div>
+</li>
+
+
 <li>
 <div class="pub-row">
 
@@ -101,42 +158,13 @@
 </div>
 </li>
 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/usenix24.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">USENIX'24</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" target="_blank">Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation</a></div>
-    <div class="author">Shuofeng Liu, <strong>Zihan Wang</strong>, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. </div>
-    <div class="periodical"><em>USENIX Security, Feb. 2024.</em></div>
-    <div class="links">
-      <a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <details class="auto-close">
-        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
-        <pre style="font-size:10px;">
-@inproceedings{liu2024purpose,
-  title={Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation},
-  author={Liu, Shuofeng and Wang, Zihan and Xue, Minhui and Wang, Long and Zhang, Yuanchao and Bai, Guangdong.},
-  journal={USENIX Security},
-  year={2024}
-}        </pre>
-    </details>
-    </div>
-  </div>
-</div>
-</li>
-
 
 <li>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/wacv23.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">WACV'23</abbr>
+    <abbr class="badge">WACV'24</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">

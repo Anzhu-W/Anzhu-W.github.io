@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 
-I began my Ph.D. studies in 2023 at the School of Electrical Engineering and Computer Science, <a href="https://www.uq.edu.au/" target="_blank"> the University of Queensland</a>, under the guidance of A/Prof. <a href="https://baigd.github.io/" target="_blank">Guangdong Bai</a> and Dr. <a href="https://people.csiro.au/x/j/jason-xue" target="_blank">Jason Xue</a>. My research focuses on tackling real-world security & privacy issues of machine learning systems in a formally verifiable manner. My works have been published in leading conferences and journals, including IEEE S&P, ACM CCS, USENIX Security, NeurIPS, WACV, and IEEE TCSS. I am the HDR representative of the discipline of Cyber Security and Software Engineering (CSS) at the University of Queensland.
+I began my Ph.D. studies in 2023 at the School of Electrical Engineering and Computer Science, <a href="https://www.uq.edu.au/" target="_blank"> the University of Queensland</a>, under the supervision of A/Prof. <a href="https://baigd.github.io/" target="_blank">Guangdong Bai</a> and Dr. <a href="https://people.csiro.au/x/j/jason-xue" target="_blank">Jason Xue</a>. My research focuses on tackling real-world security & privacy issues of machine learning systems in a formally verifiable manner. My works have been published in leading conferences and journals, including IEEE S&P, ACM CCS, USENIX Security, NeurIPS, WACV, and IEEE TCSS. I am also the HDR representative of the discipline of Cyber Security and Software Engineering (CSS) at the University of Queensland.
 
 
 

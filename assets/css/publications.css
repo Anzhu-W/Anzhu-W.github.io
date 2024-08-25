@@ -147,27 +147,27 @@ screen and (min-width: 480px) {
 }
 
 .links {
-  position: relative; /* Container needs relative positioning */
-  font-size: 0; /* Eliminates whitespace nodes causing alignment issues */
+  position: relative;
+  font-size: 0;
 }
 
 .links a.btn, .links summary.btn {
   color: #000000;
-  /*background-color: #FFF;*/
+  background-color: #FFFFFF;
   border: 1px solid #000000;
   padding: 0.1rem 0.5rem;
   cursor: pointer;
   display: inline-block;
-  font-size: 12px; /* Reset font-size to maintain consistency */
-  vertical-align: middle; /* Aligns elements vertically */
-  margin-right: 4px; /* Consistent margin for spacing */
+  font-size: 12px;
+  vertical-align: middle;
+  margin-right: 4px;
   transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
-  line-height: normal; /* Adjust line-height to match design */
+  line-height: normal;
 }
 
 .links details {
-  display: inline-block; /* Maintains inline flow without breaking line */
-  vertical-align: middle; /* Aligns with other button-like elements */
+  display: inline-block;
+  vertical-align: middle;
   margin: 0;
   padding: 0;
   border: none;
@@ -175,27 +175,36 @@ screen and (min-width: 480px) {
 }
 
 .links details pre {
-  position: absolute; /* Absolutely position the dropdown */
-  z-index: 1000; /* Ensure it sits on top of other elements */
-  width: 100%; /* Adjust width as needed */
-  left: 0; /* Aligns to the left of the parent */
-  background: #f8f9fa; /* Light gray background for the dropdown */
+  position: absolute;
+  z-index: 1000;
+  width: 100%;
+  left: 0;
+  background: #f8f9fa;
   border-radius: 0.25rem;
-  margin-top: 0.2rem; /* Adds a slight space below the button */
-  padding: 0.5rem; /* Padding inside the dropdown */
-  white-space: pre-wrap; /* Ensures text wraps as needed */
-  box-shadow: 0 2px 10px rgba(0,0,0,0.1); /* Optional shadow for visibility */
+  margin-top: 0.2rem;
+  padding: 0.5rem;
+  white-space: pre-wrap;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
 
 @media (prefers-color-scheme: dark) {
   .links a.btn, .links summary.btn {
-    color: #FFFFFF;
-    border: 1px solid #FFFFFF;
+    color: #FFFFFF !important;
+    background-color: transparent !important;
+    border: 1px solid #FFFFFF !important;
   }
 
   .links a.btn:hover, .links summary.btn:hover {
+    color: var(--global-theme-color) !important;
+    border-color: var(--global-theme-color) !important;
+    background-color: transparent !important;
+  }
+
+  .links details pre {
+    background: #2c2c2c;
     color: var(--global-theme-color);
-    border-color: var(--global-theme-color);
+    border: 1px solid var(--global-theme-color);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
   }
 }
 

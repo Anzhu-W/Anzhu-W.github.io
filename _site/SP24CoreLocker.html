@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang=" en-US">
+
+<head>
+  <title>Zihan Wang</title>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.">
+    
+  <meta name="keywords" content="minimal light">
+  
+  
+  <link rel="canonical" href="https://minimal-light-theme.yliu.me/" />
+  
+
+  <link rel="icon" media="(prefers-color-scheme:dark)" href="./assets/img/favicon-dark.png" type="image/png" />
+  <link rel="icon" media="(prefers-color-scheme:light)" href="./assets/img/andrew.png" type="image/png" />
+  <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+
+  <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css
+    integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
+  <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css
+    integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
+
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="stylesheet" href="./assets/css/publications.css">
+
+</head>
+
+<body>
+  <div class="wrapper">
+    <header>
+
+      
+      <a class="image avatar"><img src="./assets/img/zihan_wang.jpg" alt="avatar" /> </a>
+      
+      <br>
+      
+
+      <h1>Zihan Wang</h1>
+      
+
+      
+      <position style="font-size:1.10rem;">Ph.D. Student</position>
+      <br>
+      
+      
+      
+      <a href="https://eecs.uq.edu.au/" rel="noopener" target="_blank">
+        <autocolor>School of EECS,</autocolor>
+      </a>
+      <br>
+      
+      
+      <a href="https://www.uq.edu.au/" rel="noopener" target="_blank">
+        <autocolor>The University of Queensland</autocolor>
+      </a>
+      <br>
+      
+      
+      <a href="" rel="noopener" target="_blank">
+        <h4>Building 78, University of Queensland, QLD 4072</h4>
+      </a>
+      
+      
+      <a href="mailto: zihan.wang@uq.edu.au" style="color:#6d6d6d">
+        <email>
+          zihan.wang@uq.edu.au
+        </email>
+      </a>
+      
+
+      <br>
+      <br>
+      <div class="social-icons">
+        
+        <a style="margin: 0 5px 0 0" href="https://scholar.google.com/citations?user=5tre4J4AAAAJ&hl=en">
+          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
+        </a>
+        
+
+        
+
+        
+
+        
+        <a style="margin: 0 5px 0 0" href="https://www.linkedin.com/in/zihan-wang-68675a231/">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        
+
+        
+      </div>
+      <br>
+
+    </header>
+    <section>
+
+      <head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+    <style>
+        iframe {
+            width: 100%;
+            height: calc(100vh - 100px);
+            border: none;
+        }
+    </style>
+</head>
+
+<div style="height: 20px;"></div>
+
+<h1 id="neuron-level-usage-control-sp24">Neuron-level Usage Control <sup style="font-size:13pt;">[<i>S&amp;P’24</i>]</sup></h1>
+
+<div style="height: 20px;"></div>
+
+<div align="center">
+    <img src="./assets/img/sp_cover.png" alt="cover image" width="100%" />
+</div>
+
+<h2 id="background">Background</h2>
+<p>Deep neural networks (DNNs) have seen remarkable success in various fields, yet developing a high-quality model often demands substantial resources.
+This includes sophisticated architectural design, extensive high-quality data, meticulous fine-tuning, and optimization, and substantial computational power. Taking GPT-3 as an example, it consists of 175 billion parameters and takes 355 GPU-years and $4.6M for a single training run. A model thus represents a valuable intellectual property (IP), and transforms into a treasure of its developer. For instance, a recent study by Fortune shows that ChatGPT has attracted 100 million active users two months after its launch, and earns 80 million dollars per month for OpenAI.</p>
+
+<div align="center">
+    <img src="./assets/img/sp24_intro1.png" alt="intro" width="70%" />
+</div>
+
+<p>In contrast to the traditional deployment of DNN models within the server or cloud under the direct control of the model owner, various scenarios, such as commercial partnerships, consulting services, and on-device inference, entail the transfer of the model to an external party, referred to as the <em>model controller</em>. Nevertheless, once the model is handed over to the model controller, the owner loses control over it. Indeed, a recent study on 1,468 mobile apps uncovers that 41% of them fail to secure their DNN models against on-device model inference attacks, allowing the attacker to extract all model parameters through reverse engineering. Consequently, unethical controllers may exploit the obtained model for unscrupulous competition or unauthorized subletting, posing financial losses for the model owners. Moreover, malicious controllers can abuse the model to facilitate the generation of adversarial examples to attack the model owner’s legitimate services.</p>
+
+<div align="center">
+    <img src="./assets/img/sp24_intro2.png" alt="intro" width="70%" />
+</div>
+
+<p>Two lines of research are seemingly potential to alleviate this challenge, including <em>passive methods</em> and <em>active methods</em>.
+Passive methods involve embedding a watermark or signature into the model, which manifests only when certain inputs are given to the model, enabling the owner to claim the ownership of the model. 
+Such methods often fail to prevent unauthorized usage after the model’s exposure, and the incentives for theft remain.
+On the other hand, active methods introduce keyed data and keyed neurons. 
+The former integrates a secret key into the training data during the preprocessing and trains a model to operate only with <em>key-preprocessed</em> inputs. This strategy entails retraining models for each key, rendering it extremely time-consuming and unsuitable for pre-trained models. 
+The latter embeds the key into neurons, which undermines the utility of the entire model unless the key is known by the model controller for neutralization. Nevertheless, these approaches entail meticulous perturbation generation and specialized hyperparameter selection when determining the key, and the key has been shown to be detectable and removable through out-of-distribution value detection, pruning and fine-tuning.</p>
+
+<h2 id="our-work">Our Work</h2>
+<p>In this work, we explore a novel defense paradigm that takes a step forward from conventional parameter perturbation approaches, focusing instead on the fundamental structural bedrock that determines a neural network’s functionality.
+Our work endows the model owner with the capability to tailor the model into a low-utility version, which can be fully restored after authorization. 
+This capability holds broad applicability in online services such as machine learning as a service (MLaaS), and on-device model deployment, where model owners strategically offer lower-utility models to entice users toward purchasing full- or higher-utility versions. 
+Real-world examples include cutout.pro and together.ai, which provide models with free low utility options or varying capabilities at different price points. Specifically, we aim to answer the research question of <em>how to degrade a model’s performance to a lower utility level while ensuring that the full utility can be efficiently restored by authorized controllers?</em></p>
+
+<div align="center">
+    <img src="./assets/img/animate2.gif" alt="extraction animation" style="width: 30%; display: inline-block;" />
+    <img src="./assets/img/sp24.gif" alt="disparity change" style="width: 30%; display: inline-block;" />
+</div>
+
+<p>We propose <strong>CoreLocker</strong>, which locks a minimal subset of neurons from the pre-protected neural network (denoted as $f^{*}$), parameterized by $0 &lt; \alpha &lt; 1$, leading to a subnetwork of $f^{*}$ with partial or none utility (which is thus denoted as $f^{\alpha}$). We formalize an ideally-unusable network (denoted as $f^0$) which conducts random inference, and in the extreme requirement where the capability of the network needs to be fully hidden, the resulting $f^{\alpha}$ should be proximate to $f^0$ in its performance, i.e., $f^{*} \gg f^{\alpha} \approx f^0$ if we abuse $f^{-}$ to denote the performance of themselves. <strong>CoreLocker</strong> aims for a <em>training data-agnostic</em> and <em>retraining-free</em> process by directly operating on off-the-shelf pre-trained networks, making it well-suited for seamless integration across diverse neural network architectures.</p>
+
+<div align="center">
+    <img src="./assets/img/sp24_flow.png" alt="workflow" width="85%" />
+</div>
+
+<p><strong>CoreLocker</strong>’s solution stems from an intuitive yet compelling insight: if the performance of a neural network is disproportionately dependent on a specific small subset of critical weights, removing these weights is likely to have the potential to incapacitate the network. 
+In particular, it employs an efficient <em>selective weight removal</em>, based on the intrinsic attributes of a neural network, including the $\ell_1$-<em>norm</em> of weights and the <em>scaling factors</em> of batch normalization layers, as key criteria for its weight selection <strong><em>(property of efficient extraction)</em></strong>. These selected weights, referred to as the <em>access key</em>, are few in number and are handled through the secure channel to ensure the model’s original utility is readily recoverable upon restoration <strong><em>(property of efficient authorized restoration)</em></strong>. However, the removal of the key makes it extremely complex to restore the original network <strong><em>(property of complex unauthorized restoration)</em></strong>. As shown in a recent study, it requires millions of years for an IBM Summit supercomputer to crack a multi-layer neural network.</p>
+
+<div align="center">
+    <img src="./assets/img/sp_curve.png" alt="curve" width="80%" />
+</div>
+
+<p>We provide a robust formal foundation for <strong>CoreLocker</strong>’s neuron-level usage control, which establishes both lower and upper bounds of the proximity and disparity among $f^{*}$, $f^{\alpha}$, and $f^0$. Our formalization captures two essential characteristics of neural networks, including the <em>distribution preservation</em> during training and the <em>impact concentration</em> of weights. This formalization enables the use of probabilistic approaches to analyze the behavior of the trained network, by highlighting that the weights of a trained network preserve the probability distribution established during initialization.
+The impact concentration underscores that <em>the performance of a neural network is largely reliant on a crucial subset of weights</em>. This concept is seemingly the dual of the principle behind various pruning studies that the majority of neurons can be pruned with negligible impact. Despite the pruning principle formally proved by a recent study, establishing a formal proof for impact concentration is more challenging, as it has to handle duplication and correlation among neurons. We for the first time address it in this work through deriving the bounds of the gaps among the outputs of $f^{*}$ and $f^{\alpha}$ layer by layer.</p>
+
+<div style="height: 20px;"></div>
+<h1 id="slides">Slides</h1>
+<div style="height: 20px;"></div>
+<!-- Embed PDF here -->
+<iframe src="assets/others/updated_version.pdf"></iframe>
+
+<div style="height: 40px;"></div>
+
+<h1 id="back"><a href="./">Back</a></h1>
+
+
+      <br>
+
+      
+
+    </section>
+    <footer>
+
+    </footer>
+  </div>
+  <script src="/%20/assets/js/scale.fix.js"></script>
+  
+</body>
+
+</html>

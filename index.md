@@ -11,12 +11,15 @@ I began my Ph.D. studies in 2023 at the School of Electrical Engineering and Com
 
 ## Research Interests
 - **Trustworthy and Responsible AI:**
-  - Neural Network Usage Control (IEEE S&P24)
-  - Purpose Limitation (USENIX Security24)
-  - Privacy Leakage (CCS24, NeurIPS22, IEEE TCSS)
-- **Neural Network Compression:**
-  - Pruning (IEEE S&P24)
-  - Knowledge Distillation (WACV24)
+  - Neural Network Usage Control (<a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">CoreLocker</a>@IEEE S&P24)
+  - Purpose Limitation (<a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">AlgoSpec</a>@USENIX Security24)
+- **Privacy-preserving Machine Learning:**
+  - Gradient Inversion Attack (<a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">Grab</a>@CCS24)
+  - Membership Inference Attack (<a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">M⁴I</a>@NeurIPS22)
+  - Data Hiding (IEEE TCSS23)
+- **Efficient Machine Learning:**
+  - Model Pruning (<a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">CoreLocker</a>@IEEE S&P24)
+  - Knowledge Distillation (<a href="https://openaccess.thecvf.com/content/WACV2024/papers/Liu_BPKD_Boundary_Privileged_Knowledge_Distillation_for_Semantic_Segmentation_WACV_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">BPKD</a>@WACV24)
 
 
 
@@ -28,7 +31,7 @@ I began my Ph.D. studies in 2023 at the School of Electrical Engineering and Com
 - **[Oct. 2023]** Our paper on knowledge distillation is accepted by WACV'24 (Core A).
 - **[Aug. 2023]** Our paper on formalizing neural network perturbation  is accepted by ICFEM'23.
 - **[Dec. 2022]** I obtained my Bachelor of Comp. Sci. (Advanced) from the University of Adelaide!
-- **[Dec. 2022]** Presenting our paper at NeurIPS'22 in New Orleans, USA. <a href="https:/assets/img/22nips.webp" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">[Photo]</a>
+- **[Dec. 2022]** Excited to have presented at my first conference @ NeurIPS'22, in New Orleans, USA! <a href="https:/assets/img/22nips.webp" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">[Photo]</a>
 - **[Sep. 2022]** Our paper on multi-modal model MIA is accepted by NeurIPS'22 (Core A*).
 
 

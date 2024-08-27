@@ -5,21 +5,22 @@ layout: homepage
 ## About Me
 
 
-I began my Ph.D. studies in 2023 at the School of Electrical Engineering and Computer Science, <a href="https://www.uq.edu.au/" target="_blank"> the University of Queensland</a>, under the supervision of A/Prof. <a href="https://baigd.github.io/" target="_blank">Guangdong Bai</a> and Dr. <a href="https://people.csiro.au/x/j/jason-xue" target="_blank">Jason Xue</a>. My research focuses on tackling real-world security & privacy issues of machine learning systems in a formally verifiable manner. My works have been published in leading conferences and journals, including IEEE S&P, ACM CCS, USENIX Security, NeurIPS, WACV, and IEEE TCSS. I am also the HDR representative of the discipline of Cyber Security and Software Engineering (CSS) at the University of Queensland.
+I began my Ph.D. studies in 2023 at the School of Electrical Engineering and Computer Science, <a href="https://www.uq.edu.au/" target="_blank"> the University of Queensland</a>, under the supervision of A/Prof. <a href="https://baigd.github.io/" target="_blank">Guangdong Bai</a> and Dr. <a href="https://people.csiro.au/x/j/jason-xue" target="_blank">Jason Xue</a>. My research focuses on tackling real-world security & privacy issues of machine learning systems in a formally verifiable manner. My works have been published in leading conferences and journals, including IEEE S&P, ACM CCS, USENIX Security, NeurIPS, WACV, and IEEE TCSS. I am also the HDR representative of the discipline of Cyber Security and Software Engineering (CSS).
 
 
 
 ## Research Interests
-- **Trustworthy and Responsible AI:**
-  - Neural Network Usage Control (<a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">CoreLocker</a>@IEEE S&P24)
-  - Purpose Limitation (<a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">AlgoSpec</a>@USENIX Security24)
-- **Privacy-preserving Machine Learning:**
-  - Gradient Inversion Attack (<a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">Grab</a>@CCS24)
-  - Membership Inference Attack (<a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">M⁴I</a>@NeurIPS22)
-  - Data Hiding (IEEE TCSS23)
+- **Trustworthy and Responsible AI**
+  - Neural Network Usage Control: <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">CoreLocker</a>@IEEE S&P24
+  - Purpose Limitation: <a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">AlgoSpec</a>@USENIX Security24
+  - Neural Network Verification
+- **Privacy-preserving Machine Learning**
+  - Gradient Inversion Attack: <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">Grab</a>@CCS24
+  - Membership Inference Attack: <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">M⁴I</a>@NeurIPS22
+  - Data Hiding: IEEE TCSS23
 - **Efficient Machine Learning:**
-  - Model Pruning (<a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">CoreLocker</a>@IEEE S&P24)
-  - Knowledge Distillation (<a href="https://openaccess.thecvf.com/content/WACV2024/papers/Liu_BPKD_Boundary_Privileged_Knowledge_Distillation_for_Semantic_Segmentation_WACV_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">BPKD</a>@WACV24)
+  - Model Pruning: <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">CoreLocker</a>@IEEE S&P24
+  - Knowledge Distillation: <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Liu_BPKD_Boundary_Privileged_Knowledge_Distillation_for_Semantic_Segmentation_WACV_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:14px;">BPKD</a>@WACV24
 
 
 

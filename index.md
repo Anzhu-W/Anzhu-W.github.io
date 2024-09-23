@@ -7,7 +7,6 @@ layout: homepage
 
 I am a PhD student at<a href="https://www.uq.edu.au/" style="color: #b8860b;" target="_blank"> the University of Queensland</a>, supervised by A/Prof. <a href="https://baigd.github.io/" style="color: #b8860b;" target="_blank">Guangdong Bai</a> and Dr. <a href="https://people.csiro.au/x/j/jason-xue" style="color: #b8860b;" target="_blank">Jason Xue</a>. 
 I am the recipient of the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/"  style="color: #b8860b;" target="_blank">Google PhD Fellowship</a>, and am currently serving as the HDR representative for the Cyber Security and Software Engineering discipline at UQ.
-
 My research is generously supported by the RTP Scholarship and CSIRO's Data61 Top-up Scholarship.
 
 <hr>
@@ -36,7 +35,7 @@ My research focuses on tackling real-world security & privacy issues of machine 
 - **[Dec. 2023]** Our paper on deep data hiding is accepted by IEEE TCSS.
 - **[Oct. 2023]** Our paper on knowledge distillation is accepted by WACV'24.
 - **[Aug. 2023]** Our paper on formalizing NN perturbation is accepted by ICFEM'23.
-- **[Dec. 2022]** Graduated with a B.CS (Adv.) from the University of Adelaide! [2020-]
+- **[Dec. 2022]** Graduated with a B.CS (Adv.) from the University of Adelaide! [2020-22]
 - **[Nov. 2022]** Excited to have presented at my first conference @ <a href="https:/assets/img/22nips.webp" target="_blank">NeurIPS</a> in New Orleans! 
 - **[Sep. 2022]** Our paper on multi-modal model MIA is accepted by NeurIPS'22.
 

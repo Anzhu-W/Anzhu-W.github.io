@@ -6,7 +6,8 @@ layout: homepage
 
 
 I am a PhD student at<a href="https://www.uq.edu.au/" style="color: #b8860b;" target="_blank"> the University of Queensland</a>, working under the supervision of A/Prof. <a href="https://baigd.github.io/" style="color: #b8860b;" target="_blank">Guangdong Bai</a> and Dr. <a href="https://people.csiro.au/x/j/jason-xue" style="color: #b8860b;" target="_blank">Jason Xue</a>. 
-I serve as the HDR representative for the Cyber Security and Software Engineering discipline at UQ, with my research supported by the RTP Scholarship and CSIRO's Data61 Top-up Scholarship. I am a recipient of the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/"  style="color: #b8860b;" target="_blank"><u>Google PhD Fellowship</u></a>.
+I serve as the HDR representative for the Cyber Security and Software Engineering discipline at UQ, with my research supported by the RTP Scholarship and CSIRO's Data61 Top-up Scholarship. 
+<!-- I am a recipient of the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/"  style="color: #b8860b;" target="_blank"><u>Google PhD Fellowship</u></a>. -->
 
 <hr>
 <!-- My works have been published in leading conferences and journals, including IEEE S&P, ACM CCS, USENIX Security, NeurIPS, WACV, and IEEE TCSS.  -->

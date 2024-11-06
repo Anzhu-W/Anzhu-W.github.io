@@ -6,14 +6,15 @@ layout: homepage
 
 
 I am a second-year PhD student at the<a href="https://www.uq.edu.au/" style="color: #b8860b;" target="_blank"> University of Queensland</a>, working under the supervision of A/Prof. <a href="https://baigd.github.io/" style="color: #b8860b;" target="_blank">Guangdong Bai</a> and Dr. <a href="https://people.csiro.au/x/j/jason-xue" style="color: #b8860b;" target="_blank">Jason Xue</a>. 
-I’m currently serving as the HDR representative for the Cyber Security and Software Engineering (CSS) discipline.
+I’m currently serving as the HDR representative for the CSS discipline.
 
-My research is generously supported by the RTP Scholarship and CSIRO's Data61 Top-up Scholarship, and I am a recipient of the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/"  style="color: #b8860b;" target="_blank"><u>Google PhD Fellowship 2024</u></a>.
+My research is generously supported by the RTP Scholarship and CSIRO's Data61 Top-up Scholarship. I am also honored with the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/"  style="color: #b8860b;" target="_blank"><u>Google PhD Fellowship</u></a>, 2024.
 
 <!-- <hr> -->
 
 <!-- ## Research Interests -->
-My research interests are to tackle real-world security & privacy issues of machine learning systems in a formally verifiable manner. I also work closely with my colleague <a href="https://zhongkuima.github.io/index.html" style="color: #b8860b;" target="_blank">Zhongkui Ma</a> on Neural Network Verification. My works have been published in leading venues, including IEEE S&P, ACM CCS, USENIX Security, NeurIPS, WACV, and IEEE TCSS. Some of my recent projects include:
+My research interests are to tackle real-world security & privacy issues of machine learning systems in a formally verifiable manner. I also work closely with my colleague <a href="https://zhongkuima.github.io/index.html" style="color: #b8860b;" target="_blank">Zhongkui Ma</a> on Neural Network Verification. Some of my recent projects include:
+<!-- My works have been published in leading venues, including IEEE S&P, ACM CCS, USENIX Security, NeurIPS, WACV, and IEEE TCSS. -->
   - Neuron-level Usage Control: <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">CoreLocker</a>@Oakland'24
   - Privacy-preserving ML: <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">Grab</a>@CCS'24, <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">M⁴I</a>@NeurIPS'22
   - Purpose Limitation: <a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AlgoSpec</a>@Security'24

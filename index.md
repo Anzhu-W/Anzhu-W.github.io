@@ -29,7 +29,7 @@ My research interests are to tackle real-world security & privacy issues of mach
 <!-- <hr> -->
 
 # News
-- **[Oct. 2024]** I’m awarded the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/"  style="color: #b8860b;" target="_blank">2024 Google PhD Fellowship</a>!
+- **[Oct. 2024]** I’m awarded the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/" target="_blank"><u>Google PhD Fellowship</u></a>!
 - **[Oct. 2024]** I am invited to serve as a PC member for PAKDD'25.
 - **[Aug. 2024]** Our paper on GIA in language model is accepted by ACM CCS’24.
 - **[Mar. 2024]** Our paper on NN usage control is accepted by IEEE S&P’24.

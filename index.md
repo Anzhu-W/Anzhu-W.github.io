@@ -14,7 +14,7 @@ My research is generously supported by the RTP Scholarship and CSIRO's Data61 To
 ## Research Interests
 My research interests are to tackle real-world security & privacy issues of machine learning systems in a formally verifiable manner. I also work closely with my colleague <a href="https://zhongkuima.github.io/index.html" target="_blank">Zhongkui Ma</a> on Neural Network Verification. Some of my recent projects include:
 <!-- My works have been published in leading venues, including IEEE S&P, ACM CCS, USENIX Security, NeurIPS, WACV, and IEEE TCSS. -->
-  - Neuron-level Usage Control: <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">CoreLocker</a>@Oakland'24
+  - Neuron-level Usage Control: <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">CoreLocker</a>@Oakland'24, <a href="https://www.zihan.com.au/assets/files/WWW25AIM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AIM</a>@WWW'25
   - Privacy-preserving ML: <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">Grab</a>@CCS'24, <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">M⁴I</a>@NeurIPS'22
   - Purpose Limitation: <a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AlgoSpec</a>@Security'24
   
@@ -29,6 +29,7 @@ My research interests are to tackle real-world security & privacy issues of mach
 <!-- <hr> -->
 
 # News
+- **[Jan. 2025]** Our paper on model modulation is accepted by WWW’24.
 - **[Oct. 2024]** I’m awarded the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/" target="_blank"><u>Google PhD Fellowship</u></a>!
 - **[Oct. 2024]** I am invited to serve as a PC member for PAKDD'25.
 - **[Aug. 2024]** Our paper on GIA in language model is accepted by ACM CCS’24.

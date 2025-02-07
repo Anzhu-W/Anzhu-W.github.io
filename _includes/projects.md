@@ -106,7 +106,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://raw.githubusercontent.com/UQ-Trust-Lab/UQ-Trust-Lab.github.io/master/static/covers/grab_ccs.webp" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/ccs_cover.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CCS'24</abbr>
   </div>
 

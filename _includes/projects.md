@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/www_cover.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/www_cover.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">WWW'25</abbr>
   </div>
 
@@ -111,11 +111,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="" target="_blank">Uncovering Gradient Inversion Risks in Practical Language Model Training</a></div>
+    <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3589334.3645697" target="_blank">Uncovering Gradient Inversion Risks in Practical Language Model Training</a></div>
     <div class="author">Xinguo Feng, Zhongkui Ma, <strong>Zihan Wang</strong>, Chegne Eu Joe, Mengyao Ma, Alsharif Abuadbba, Guangdong Bai. </div>
     <div class="periodical"><em>ACM Computer and Communications Security Conference (CCS), Aug. 2024.</em></div>
     <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://dl.acm.org/doi/abs/10.1145/3589334.3645697" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <details class="auto-close">
         <summary class="btn btn-sm z-depth-0">BibTeX</summary>
         <pre style="font-size:10px;">

@@ -12,11 +12,17 @@ My research is generously supported by the RTP Scholarship and CSIRO's Data61 To
 <!-- <hr> -->
 
 ## Research Interests
-My research interests are to tackle real-world security & privacy issues of machine learning systems in a formally verifiable manner. I also work closely with my colleague <a href="https://zhongkuima.github.io/index.html" target="_blank">Zhongkui Ma</a> on Neural Network Verification. Some of my recent projects include:
-<!-- My works have been published in leading venues, including IEEE S&P, ACM CCS, USENIX Security, NeurIPS, WACV, and IEEE TCSS. -->
-  - Model Usage Control: <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">CoreLocker</a>@Oakland'24, <a href="https://www.zihan.com.au/assets/files/WWW25AIM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AIM</a>@WWW'25
-  - Privacy-preserving ML: <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">Grab</a>@CCS'24, <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">M⁴I</a>@NeurIPS'22
-  - Purpose Limitation: <a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AlgoSpec</a>@Security'24
+My research interests are to tackle real-world security & privacy issues of machine learning systems in a formally verifiable manner. 
+My works have been published in leading venues, including IEEE S&P, ACM CCS, USENIX Security, NeurIPS, WWW, WACV, and IEEE TCSS.
+I also work closely with my colleague <a href="https://zhongkuima.github.io/index.html" target="_blank">Zhongkui Ma</a> on NNV. Some of my recent projects include:
+  - <b>AI Model Usage Control</b>
+    - Logit-level Model Modulation: <a href="https://www.zihan.com.au/assets/files/WWW25AIM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AIM</a>@WWW25
+    - Neuron-level Usage Control: <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">CoreLocker</a>@IEEE S&P24
+  - <b>ML Privacy Compliance </b>
+    - Algorithmic Purpose Limitation: <a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AlgoSpec</a>@USENIX Security24
+    - Token-level Gradient Inversion: <a href="https://dl.acm.org/doi/abs/10.1145/3589334.3645697" class="btn btn-sm z-depth-0" role="button" target="_blank">Grab</a>@ACM CCS24
+    - Multi-modal Membership Inference: <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">M⁴I</a>@NeurIPS22
+
   
 <!-- - **Efficient Machine Learning:**
   - Model Pruning: <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">CoreLocker</a>@IEEE S&P24

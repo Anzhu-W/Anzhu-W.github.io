@@ -62,7 +62,7 @@
   booktitle={IEEE Symposium on Security and Privacy (S\&P)},
   doi = {10.1109/SP54263.2024.00182},
   url = {https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00182},
-  pages = {222-222},
+  pages={2497--2514},
   year={2024}
 }        </pre>
     </details>
@@ -115,7 +115,7 @@
     <div class="author">Xinguo Feng, Zhongkui Ma, <strong>Zihan Wang</strong>, Chegne Eu Joe, Mengyao Ma, Alsharif Abuadbba, Guangdong Bai. </div>
     <div class="periodical"><em>ACM Computer and Communications Security Conference (CCS), Aug. 2024.</em></div>
     <div class="links">
-      <a href="https://dl.acm.org/doi/abs/10.1145/3589334.3645697" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://dl.acm.org/doi/10.1145/3658644.3690292" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <details class="auto-close">
         <summary class="btn btn-sm z-depth-0">BibTeX</summary>
         <pre style="font-size:10px;">

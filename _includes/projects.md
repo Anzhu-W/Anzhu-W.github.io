@@ -3,6 +3,40 @@
 <div class="publications">
 <ol class="bibliography">
 
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/sp_cover.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">S&P'24</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a222/1WPcYMh3F1C">CoreLocker: Neuron-level Usage Control</a></div>
+    <div class="author"><strong>Zihan Wang</strong>, Zhongkui Ma, Xinguo Feng, Ruoxi Sun, Hu Wang, Minhui Xue, Guangdong Bai.</div>
+    <div class="periodical"><em>IEEE Symposium on Security and Privacy <strong>(S&P)</strong>, Mar. 2024.</em></div>
+    <div class="links">
+      <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="../SP24CoreLocker.html" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">Website</a>
+      <details class="auto-close">
+        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
+        <pre style="font-size:10px;">
+@inproceedings{wang2024corelocker,
+  title={CoreLocker: Neuron-level Usage Control},
+  author={Wang, Zihan and Ma, Zhongkui and Feng, Xinguo and Sun, Ruoxi and Wang, Hu and Xue, Minhui and Bai, Guangdong.},
+  booktitle={IEEE Symposium on Security and Privacy (S\&P)},
+  doi = {10.1109/SP54263.2024.00182},
+  url = {https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00182},
+  pages={2497--2514},
+  year={2024}
+}        </pre>
+    </details>
+    </div>
+  </div>
+</div>
+</li>
+
 <li>
 <div class="pub-row">
 
@@ -12,7 +46,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="/">AI Model Modulation with Logits Redistribution</a></div>
+    <div class="title"><a href="/">Model Modulation with Logits Redistribution</a></div>
     <div class="author"><strong>Zihan Wang</strong>, Zhongkui Ma, Xinguo Feng, Zhiyang Mei, Zhiyong Ma, Derui Wang, Minhui Xue, Guangdong Bai.</div>
     <div class="periodical"><em>The Web Conference <strong>(WWW)</strong>, Apr. 2025.</em></div>
     <div class="links">
@@ -42,28 +76,26 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/sp_cover.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">S&P'24</abbr>
+    <img src="assets/img/tcss23.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TCSS</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a222/1WPcYMh3F1C">CoreLocker: Neuron-level Usage Control</a></div>
-    <div class="author"><strong>Zihan Wang</strong>, Zhongkui Ma, Xinguo Feng, Ruoxi Sun, Hu Wang, Minhui Xue, Guangdong Bai.</div>
-    <div class="periodical"><em>IEEE Symposium on Security and Privacy <strong>(S&P)</strong>, Mar. 2024.</em></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10123415">Data Hiding With Deep Learning: A Survey Unifying Digital Watermarking and Steganography</a></div>
+    <div class="author"><strong>Zihan Wang</strong>, Olivia Byrnes, Hu Wang, Ruoxi Sun, Congbo Ma, Huaming Chen, Qi Wu, Minhui Xue.</div>
+    <div class="periodical"><em>IEEE Transactions on Computational Social Systems
+ <strong>(TCSS)</strong>, Dec. 2023.</em></div>
     <div class="links">
-      <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="../SP24CoreLocker.html" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">Website</a>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10123415" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <details class="auto-close">
         <summary class="btn btn-sm z-depth-0">BibTeX</summary>
         <pre style="font-size:10px;">
-@inproceedings{wang2024corelocker,
-  title={CoreLocker: Neuron-level Usage Control},
-  author={Wang, Zihan and Ma, Zhongkui and Feng, Xinguo and Sun, Ruoxi and Wang, Hu and Xue, Minhui and Bai, Guangdong.},
-  booktitle={IEEE Symposium on Security and Privacy (S\&P)},
-  doi = {10.1109/SP54263.2024.00182},
-  url = {https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00182},
-  pages={2497--2514},
-  year={2024}
+@article{wang2023data,
+  title={Data hiding with deep learning: a survey unifying digital watermarking and steganography},
+  author={Wang, Zihan and Byrnes, Olivia and Wang, Hu and Sun, Ruoxi and Ma, Congbo and Chen, Huaming and Wu, Qi and Xue, Minhui},
+  journal={IEEE Transactions on Computational Social Systems},
+  year={2023},
+  publisher={IEEE}
 }        </pre>
     </details>
     </div>
@@ -128,36 +160,6 @@
 </li>
 
 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/tcss23.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">TCSS</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10123415">Data Hiding With Deep Learning: A Survey Unifying Digital Watermarking and Steganography</a></div>
-    <div class="author"><strong>Zihan Wang</strong>, Olivia Byrnes, Hu Wang, Ruoxi Sun, Congbo Ma, Huaming Chen, Qi Wu, Minhui Xue.</div>
-    <div class="periodical"><em>IEEE Transactions on Computational Social Systems
- <strong>(TCSS)</strong>, Dec. 2023.</em></div>
-    <div class="links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/10123415" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <details class="auto-close">
-        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
-        <pre style="font-size:10px;">
-@article{wang2023data,
-  title={Data hiding with deep learning: a survey unifying digital watermarking and steganography},
-  author={Wang, Zihan and Byrnes, Olivia and Wang, Hu and Sun, Ruoxi and Ma, Congbo and Chen, Huaming and Wu, Qi and Xue, Minhui},
-  journal={IEEE Transactions on Computational Social Systems},
-  year={2023},
-  publisher={IEEE}
-}        </pre>
-    </details>
-    </div>
-  </div>
-</div>
-</li>
 
 <li>
 <div class="pub-row">

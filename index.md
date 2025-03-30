@@ -11,7 +11,7 @@ My research is generously supported by the RTP Scholarship and CSIRO's Data61 To
 
 <!-- <hr> -->
 
-## Research Interests
+<!-- ## Research Interests
 My research interests are to tackle real-world security & privacy issues of machine learning systems in a formally verifiable manner. 
 My works have been published in leading venues, including IEEE S&P, ACM CCS, USENIX Security, NeurIPS, WWW, WACV, and IEEE TCSS.
 I also work closely with my colleague <a href="https://zhongkuima.github.io/index.html" target="_blank">Zhongkui Ma</a> on NNV. Some of my recent projects include:
@@ -34,7 +34,7 @@ I also work closely with my colleague <a href="https://zhongkuima.github.io/inde
 - **[Feb. 2024]** Our paper on purpose limitation is accepted by Security’24 (Core A*, <span style="color: #b8860b;">Big Four</span>). -->
 <!-- <hr> -->
 
-# News
+<!-- # News
 - **[Jan. 2025]** Our paper on model modulation is accepted by WWW’25.
 - **[Oct. 2024]** I’m awarded the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/" target="_blank"><u>Google PhD Fellowship</u></a>!
 - **[Oct. 2024]** I am invited to serve as a PC member for PAKDD'25.
@@ -47,6 +47,7 @@ I also work closely with my colleague <a href="https://zhongkuima.github.io/inde
 - **[Dec. 2022]** Graduated with a B.CS (Adv.) from the University of Adelaide! [2020-22]
 - **[Nov. 2022]** Excited to have presented at my first conference @ <a href="https:/assets/img/22nips.webp" target="_blank">NeurIPS</a> in New Orleans! 
 - **[Sep. 2022]** Our paper on multi-modal model MIA is accepted by NeurIPS'22.
+-->
 
 
 <!-- ## Invited Talks

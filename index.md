@@ -10,11 +10,9 @@ I’m currently serving as the HDR representative for the CSS discipline.
 My research is generously supported by the RTP Scholarship and CSIRO's Data61 Top-up Scholarship. I am also honored with the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/" target="_blank">Google PhD Fellowship</a>, 2024.
 
 <!-- <hr> -->
-
+<!-- My works have been published in leading venues, including IEEE S&P, ACM CCS, USENIX Security, NeurIPS, WWW, WACV, and IEEE TCSS. --> 
 ## Research Interests
-My research interests are to tackle real-world security & privacy issues of ML systems in a formally verifiable manner. 
-<!-- My works have been published in leading venues, including IEEE S&P, ACM CCS, USENIX Security, NeurIPS, WWW, WACV, and IEEE TCSS. -->
-I also work closely with my colleague <a href="https://zhongkuima.github.io/index.html" target="_blank">Zhongkui Ma</a> on NNV. Some of my recent projects include:
+My research interests are to tackle real-world security & privacy issues of ML systems in a formally verifiable manner. I also work closely with my colleague <a href="https://zhongkuima.github.io/index.html" target="_blank">Zhongkui Ma</a> on NNV. Some of my recent projects include:
   - <b>Model Usage Control</b>
     - Logit-level Model Modulation: <a href="https://www.zihan.com.au/assets/files/WWW25AIM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AIM</a>@WWW
     - Neuron-level Usage Control: <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">CoreLocker</a>@IEEE S&P

@@ -11,8 +11,10 @@ My research is generously supported by the RTP Scholarship and CSIRO's Data61 To
 
 <!-- <hr> -->
 <!-- My works have been published in leading venues, including IEEE S&P, ACM CCS, USENIX Security, NeurIPS, WWW, WACV, and IEEE TCSS. --> 
-<!-- ## Research Interests
-My research interests are to tackle real-world security & privacy issues of ML systems in a formally verifiable manner. I also work closely with my colleague <a href="https://zhongkuima.github.io/index.html" target="_blank">Zhongkui Ma</a> on NNV. Some of my recent projects include:
+## Research Interests
+My research interests are to tackle real-world security & privacy issues of ML systems in a formally verifiable manner. I also work closely with my colleague <a href="https://zhongkuima.github.io/index.html" target="_blank">Zhongkui Ma</a> on NNV. 
+
+<!--Some of my recent projects include:
   - <b>Model Usage Control</b>
     - Logit-level Model Modulation: <a href="https://www.zihan.com.au/assets/files/WWW25AIM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AIM</a>@WWW
     - Neuron-level Usage Control: <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">CoreLocker</a>@IEEE S&P
@@ -23,7 +25,8 @@ My research interests are to tackle real-world security & privacy issues of ML s
   - <b>Efficient Machine Learning</b>
     - Model Pruning: <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">CoreLocker</a>@IEEE S&P
     - Knowledge Distillation: <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Liu_BPKD_Boundary_Privileged_Knowledge_Distillation_for_Semantic_Segmentation_WACV_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">BPKD</a>@WACV
- -->
+     -->
+
 
 <!-- - **[Aug. 2024]** Our paper on GIA in language model is accepted by CCS’24 (Core A*, <span style="color: #b8860b;">Big Four</span>).
 - **[Mar. 2024]** Our paper on NN usage control is accepted by IEEE S&P’24 (Core A*, <span style="color: #b8860b;">Big Four</span>).
@@ -50,7 +53,7 @@ My research interests are to tackle real-world security & privacy issues of ML s
 - **[05/24]** *Neuron-level Usage Control for AI Models*, School of Computing, NUS. -->
 <!-- <hr> -->
 
-<!-- {% include_relative _includes/projects.md %} -->
+{% include_relative _includes/projects.md %}
 
 
 

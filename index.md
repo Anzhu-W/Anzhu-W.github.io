@@ -14,10 +14,11 @@ My research is generously supported by the RTP Scholarship and CSIRO's Data61 To
 ## Research Interests
 My research interests are to tackle real-world security & privacy issues of ML systems in a formally verifiable manner. I also work closely with my colleague <a href="https://zhongkuima.github.io/index.html" target="_blank">Zhongkui Ma</a> on NNV. 
 
-<!--Some of my recent projects include:
-  - <b>Model Usage Control</b>
-    - Logit-level Model Modulation: <a href="https://www.zihan.com.au/assets/files/WWW25AIM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AIM</a>@WWW
+Some of my recent projects include:
+  - <b>AI Model Usage Control</b>
     - Neuron-level Usage Control: <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">CoreLocker</a>@IEEE S&P
+    - Logit-level Model Modulation: <a href="https://www.zihan.com.au/assets/files/WWW25AIM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AIM</a>@WWW
+    - Neural Network Verification: <a href="https://www.zihan.com.au/assets/files/WRAACT25OOP.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">WRAACT</a>@OOPSLA
   - <b>ML Privacy Compliance </b>
     - Algorithmic Purpose Limitation: <a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AlgoSpec</a>@USENIX Security
     - Token-level Gradient Inversion: <a href="https://dl.acm.org/doi/abs/10.1145/3589334.3645697" class="btn btn-sm z-depth-0" role="button" target="_blank">Grab</a>@ACM CCS
@@ -25,7 +26,6 @@ My research interests are to tackle real-world security & privacy issues of ML s
   - <b>Efficient Machine Learning</b>
     - Model Pruning: <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">CoreLocker</a>@IEEE S&P
     - Knowledge Distillation: <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Liu_BPKD_Boundary_Privileged_Knowledge_Distillation_for_Semantic_Segmentation_WACV_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">BPKD</a>@WACV
-     -->
 
 
 <!-- - **[Aug. 2024]** Our paper on GIA in language model is accepted by CCS’24 (Core A*, <span style="color: #b8860b;">Big Four</span>).
@@ -33,8 +33,10 @@ My research interests are to tackle real-world security & privacy issues of ML s
 - **[Feb. 2024]** Our paper on purpose limitation is accepted by Security’24 (Core A*, <span style="color: #b8860b;">Big Four</span>). -->
 <!-- <hr> -->
 
-<!-- # News
-- **[Jan. 2025]** Our paper on model modulation is accepted by WWW’25.
+# News
+- **[Aug. 2025]** Our paper on NN robustness verification is accepted by OOPSLA’25.
+- **[Jul. 2025]** I am invited to serve as a PC member for CCS-LAMPS'25
+- **[Jan. 2025]** Our paper on NN modulation is accepted by WWW’25.
 - **[Oct. 2024]** I’m awarded the <a href="https://research.google/programs-and-events/phd-fellowship/recipients/" target="_blank"><u>Google PhD Fellowship</u></a>!
 - **[Oct. 2024]** I am invited to serve as a PC member for PAKDD'25.
 - **[Aug. 2024]** Our paper on GIA in language model is accepted by ACM CCS’24.
@@ -46,7 +48,7 @@ My research interests are to tackle real-world security & privacy issues of ML s
 - **[Dec. 2022]** Graduated with a B.CS (Adv.) from the University of Adelaide! [2020-22]
 - **[Nov. 2022]** Excited to have presented at my first conference @ <a href="https:/assets/img/22nips.webp" target="_blank">NeurIPS</a> in New Orleans! 
 - **[Sep. 2022]** Our paper on multi-modal model MIA is accepted by NeurIPS'22.
--->
+
 
 
 <!-- ## Invited Talks

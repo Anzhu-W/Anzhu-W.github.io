@@ -8,6 +8,66 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/www_cover.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">WWW'25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="/">AI Model Modulation with Logits Redistribution</a></div>
+    <div class="author"><u><strong>Zihan Wang</strong></u>, <u>Zhongkui Ma</u>, Xinguo Feng, Zhiyang Mei, Zhiyong Ma, Derui Wang, Minhui Xue, Guangdong Bai.</div>
+    <div class="periodical"><em>The Web Conference <strong>(WWW)</strong>, Apr. 2025.</em></div>
+    <div class="links">
+      <a href="https://www.zihan.com.au/assets/files/WWW25AIM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <details class="auto-close">
+        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
+        <pre style="font-size:10px;">
+@inproceedings{wang2025aim,
+  title={AI Model Modulation with Logits Redistribution},
+  author={Wang, Zihan and Ma, Zhongkui and Feng, Xinguo and Mei, Zhiyang and Ma, Zhiyong and Wang, Derui and Wang, Hu and Xue, Minhui and Bai, Guangdong.},
+  year = {2025},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3696410.3714737},
+  doi = {10.1145/3696410.3714737},
+  booktitle = {Proceedings of the ACM Web Conference 2025},
+  location = {Sydney, Australia},
+  series = {WWW'25}
+}        </pre>
+    </details>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/oopsla_cover.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">OOPSLA'25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="/">Convex Hull Approximation for Activation Functions</a></div>
+    <div class="author"><u>Zhongkui Ma</u>, <u><strong>Zihan Wang</strong></u>, Guangdong Bai.</div>
+    <div class="periodical"><em>the ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications <strong>(OOPSLA)</strong>, Oct. 2025.</em></div>
+    <div class="links">
+      <a href="https://www.zihan.com.au/assets/files/WRAACT25OOP.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <details class="auto-close">
+        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
+        <pre style="font-size:10px;">
+@inproceedings{}        
+        </pre>
+    </details>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/sp_cover.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">S&P'24</abbr>
   </div>
@@ -37,40 +97,6 @@
 </div>
 </li>
 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/www_cover.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">WWW'25</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="/">Model Modulation with Logits Redistribution</a></div>
-    <div class="author"><strong>Zihan Wang</strong>, Zhongkui Ma, Xinguo Feng, Zhiyang Mei, Zhiyong Ma, Derui Wang, Minhui Xue, Guangdong Bai.</div>
-    <div class="periodical"><em>The Web Conference <strong>(WWW)</strong>, Apr. 2025.</em></div>
-    <div class="links">
-      <a href="https://www.zihan.com.au/assets/files/WWW25AIM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <details class="auto-close">
-        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
-        <pre style="font-size:10px;">
-@inproceedings{wang2025aim,
-  title={AI Model Modulation with Logits Redistribution},
-  author={Wang, Zihan and Ma, Zhongkui and Feng, Xinguo and Mei, Zhiyang and Ma, Zhiyong and Wang, Derui and Wang, Hu and Xue, Minhui and Bai, Guangdong.},
-  year = {2025},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  url = {https://doi.org/10.1145/3696410.3714737},
-  doi = {10.1145/3696410.3714737},
-  booktitle = {Proceedings of the ACM Web Conference 2025},
-  location = {Sydney, Australia},
-  series = {WWW'25}
-}        </pre>
-    </details>
-    </div>
-  </div>
-</div>
-</li>
 
 <li>
 <div class="pub-row">
@@ -172,7 +198,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf">M<sup>4</sup>I: Multi-modal Models Membership Inference
 </a></div>
-    <div class="author">Pingyi Hu, <strong>Zihan Wang*</strong>, Ruoxi Sun, Hu Wang, Minhui Xue.</div>
+    <div class="author">Pingyi Hu*, <strong>Zihan Wang*</strong>, Ruoxi Sun, Hu Wang, Minhui Xue.</div>
     <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, Sep. 2022.</em></div>
     <div class="links">
       <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>

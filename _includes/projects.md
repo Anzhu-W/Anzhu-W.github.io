@@ -14,7 +14,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="/">AI Model Modulation with Logits Redistribution</a></div>
-    <div class="author"><u><strong>Zihan Wang</strong></u>, <u>Zhongkui Ma</u>, Xinguo Feng, Zhiyang Mei, Zhiyong Ma, Derui Wang, Minhui Xue, Guangdong Bai.</div>
+    <div class="author"><u><strong>Zihan Wang</strong></u>, Zhongkui Ma, Xinguo Feng, Zhiyang Mei, Zhiyong Ma, Derui Wang, Minhui Xue, Guangdong Bai.</div>
     <div class="periodical"><em>The Web Conference <strong>(WWW)</strong>, Apr. 2025.</em></div>
     <div class="links">
       <a href="https://www.zihan.com.au/assets/files/WWW25AIM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -49,8 +49,8 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="/">Convex Hull Approximation for Activation Functions</a></div>
-    <div class="author"><u>Zhongkui Ma</u>, <u><strong>Zihan Wang</strong></u>, Guangdong Bai.</div>
-    <div class="periodical"><em>the ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications <strong>(OOPSLA)</strong>, Oct. 2025.</em></div>
+    <div class="author">Zhongkui Ma, <u><strong>Zihan Wang</strong></u>, Guangdong Bai.</div>
+    <div class="periodical"><em>The ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications <strong>(OOPSLA)</strong>, Oct. 2025.</em></div>
     <div class="links">
       <a href="https://www.zihan.com.au/assets/files/WRAACT25OOP.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <details class="auto-close">
@@ -198,7 +198,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf">M<sup>4</sup>I: Multi-modal Models Membership Inference
 </a></div>
-    <div class="author">Pingyi Hu*, <strong>Zihan Wang*</strong>, Ruoxi Sun, Hu Wang, Minhui Xue.</div>
+    <div class="author">Pingyi Hu*, <u><strong>Zihan Wang</strong></u>, Ruoxi Sun, Hu Wang, Minhui Xue.</div>
     <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, Sep. 2022.</em></div>
     <div class="links">
       <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>

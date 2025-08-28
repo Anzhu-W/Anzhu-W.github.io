@@ -40,14 +40,14 @@ My research interests are to tackle real-world security & privacy issues of ML s
 - **[Aug. 2024]** Our paper on GIA in language models has been accepted to ACM CCS’24.
 - **[Mar. 2024]** Our paper on AI model usage control has been accepted to IEEE S&P’24.
 - **[Feb. 2024]** Our paper on purpose limitation has been accepted to USENIX Security’24.
-<details markdown="1">
-<summary style="margin-bottom:0" ><b>Older news (2022–2023)</b></summary>
-  - **[Dec. 2023]** Our paper on deep data hiding has been accepted to IEEE TCSS.
-  - **[Oct. 2023]** Our paper on knowledge distillation has been accepted to WACV’24.
-  - **[Aug. 2023]** Our paper on formalizing LMs perturbation has been accepted to ICFEM’23.
-  - **[Dec. 2022]** Graduated with a B.CS (Adv.) from the University of Adelaide (2020–22).
-  - **[Nov. 2022]** Presented at my first conference, <a href="https:/assets/img/22nips.webp" target="_blank"><u>NeurIPS</u></a>, in New Orleans! 
-  - **[Sep. 2022]** Our paper on multi-modal model MIA has been accepted to NeurIPS’22.
+<details markdown="1" style="margin-top:0">
+<summary style="margin:0; padding:0"><b>Older news (2022–2023)</b></summary>
+- **[Dec. 2023]** Our paper on deep data hiding has been accepted to IEEE TCSS.
+- **[Oct. 2023]** Our paper on knowledge distillation has been accepted to WACV’24.
+- **[Aug. 2023]** Our paper on formalizing LMs perturbation has been accepted to ICFEM’23.
+- **[Dec. 2022]** Graduated with a B.CS (Adv.) from the University of Adelaide (2020–22).
+- **[Nov. 2022]** Presented at my first conference, <a href="https:/assets/img/22nips.webp" target="_blank"><u>NeurIPS</u></a>, in New Orleans! 
+- **[Sep. 2022]** Our paper on multi-modal model MIA has been accepted to NeurIPS’22.
 </details>
 
 

@@ -40,7 +40,7 @@ My research interests are to tackle real-world security & privacy issues of ML s
 - **[Aug. 2024]** Our paper on GIA in language models has been accepted to ACM CCS’24.
 - **[Mar. 2024]** Our paper on AI model usage control has been accepted to IEEE S&P’24.
 - **[Feb. 2024]** Our paper on purpose limitation has been accepted to USENIX Security’24.
-<details markdown="1" style="margin-top:-1.2rem; margin-bottom:0">  <summary style="margin:0; padding:0; margin-left:.75rem; list-style-position: inside;">
+<details markdown="1" style="margin-top:-1.2rem; margin-bottom:0">  <summary style="margin:0; padding:0; margin-left:4rem; list-style-position: inside;">
 <b>Older news (2022–2023)</b></summary>
 - **[Dec. 2023]** Our paper on deep data hiding has been accepted to IEEE TCSS.
 - **[Oct. 2023]** Our paper on knowledge distillation has been accepted to WACV’24.

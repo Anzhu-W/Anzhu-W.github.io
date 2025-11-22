@@ -8,6 +8,105 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/sp_cover.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">S&P'24</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a222/1WPcYMh3F1C">CoreLocker: Neuron-level Usage Control</a></div>
+    <div class="author"><u><strong>Zihan Wang</strong></u>, Zhongkui Ma, Xinguo Feng, Ruoxi Sun, Hu Wang, Minhui Xue, Guangdong Bai.</div>
+    <div class="periodical"><em>IEEE Symposium on Security and Privacy <strong>(S&P)</strong>, Mar. 2024.</em></div>
+    <div class="links">
+      <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="../SP24CoreLocker.html" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">Website</a>
+      <details class="auto-close">
+        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
+        <pre style="font-size:10px;">
+@inproceedings{wang2024corelocker,
+  title={CoreLocker: Neuron-level Usage Control},
+  author={Wang, Zihan and Ma, Zhongkui and Feng, Xinguo and Sun, Ruoxi and Wang, Hu and Xue, Minhui and Bai, Guangdong.},
+  booktitle={IEEE Symposium on Security and Privacy (S\&P)},
+  doi = {10.1109/SP54263.2024.00182},
+  url = {https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00182},
+  pages={2497--2514},
+  year={2024}
+}        </pre>
+    </details>
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/AdaLoc25.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Preprint'25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="/">Re-Key-Free, Risky-Free: Adaptable Model Usage Control</a></div>
+    <div class="author"><u><strong>Zihan Wang</strong></u>, Zhongkui Ma, Xinguo Feng, Chuan Yan, Dongge Liu, Ruoxi Sun, Derui Wang, Minhui Xue, Guangdong Bai.</div>
+    <!-- <div class="periodical"><em>Preprint. 2025.</em></div> -->
+    <div class="links">
+      <a href="https://www.zihan.com.au/assets/files/AdaLoc25.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <details class="auto-close">
+        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
+        <pre style="font-size:10px;">
+@inproceedings{wang2025nontransfer,
+  title={Catch-Only-One: Non-Transferable Examples for Model-Specific Authorization},
+  author={Wang, Zihan and Ma, Ethan and Ma, Zhongkui and Liu, Shuofeng and Liu, Akide and Wang, Derui and Xue, Minhui and Bai, Guangdong},
+  booktitle={arXiv preprint arXiv:2510.10982},
+  year={2025}
+}        
+        </pre>
+    </details>
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ne25.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Preprint'25</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="/">Catch-Only-One: Non-Transferable Examples for Model-Specific Authorization</a></div>
+    <div class="author"><u><strong>Zihan Wang</strong></u>, Zhiyong (Ethan) Ma, Zhongkui Ma, Shuofeng Liu, Akide Liu, Derui Wang, Minhui Xue, Guangdong Bai.</div>
+    <!-- <div class="periodical"><em>Preprint. 2025.</em></div> -->
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2510.10982" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <details class="auto-close">
+        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
+        <pre style="font-size:10px;">
+@inproceedings{wang2025nontransfer,
+  title={Catch-Only-One: Non-Transferable Examples for Model-Specific Authorization},
+  author={Wang, Zihan and Ma, Ethan and Ma, Zhongkui and Liu, Shuofeng and Liu, Akide and Wang, Derui and Xue, Minhui and Bai, Guangdong},
+  booktitle={arXiv preprint arXiv:2510.10982},
+  year={2025}
+}        
+        </pre>
+    </details>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/www_cover.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">WWW'25</abbr>
   </div>
@@ -49,7 +148,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="/">Convex Hull Approximation for Activation Functions</a></div>
-    <div class="author">Zhongkui Ma, <u><strong>Zihan Wang</strong></u>, Guangdong Bai.</div>
+    <div class="author">Zhongkui Ma<sup style="font-size: 0.6em; line-height: 0;">&dagger;</sup>, <strong><u>Zihan Wang<sup style="font-size: 0.6em; line-height: 0;">&dagger;</sup></u></strong>, Guangdong Bai.</div>
     <div class="periodical"><em>The ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications <strong>(OOPSLA)</strong>, Oct. 2025.</em></div>
     <div class="links">
       <a href="https://www.zihan.com.au/assets/files/WRAACT25OOP.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -58,39 +157,6 @@
         <pre style="font-size:10px;">
 @inproceedings{}        
         </pre>
-    </details>
-    </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/sp_cover.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">S&P'24</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a222/1WPcYMh3F1C">CoreLocker: Neuron-level Usage Control</a></div>
-    <div class="author"><strong>Zihan Wang</strong>, Zhongkui Ma, Xinguo Feng, Ruoxi Sun, Hu Wang, Minhui Xue, Guangdong Bai.</div>
-    <div class="periodical"><em>IEEE Symposium on Security and Privacy <strong>(S&P)</strong>, Mar. 2024.</em></div>
-    <div class="links">
-      <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="../SP24CoreLocker.html" class="btn btn-sm z-depth-0" role="button" style="font-size:12px;">Website</a>
-      <details class="auto-close">
-        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
-        <pre style="font-size:10px;">
-@inproceedings{wang2024corelocker,
-  title={CoreLocker: Neuron-level Usage Control},
-  author={Wang, Zihan and Ma, Zhongkui and Feng, Xinguo and Sun, Ruoxi and Wang, Hu and Xue, Minhui and Bai, Guangdong.},
-  booktitle={IEEE Symposium on Security and Privacy (S\&P)},
-  doi = {10.1109/SP54263.2024.00182},
-  url = {https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00182},
-  pages={2497--2514},
-  year={2024}
-}        </pre>
     </details>
     </div>
   </div>
@@ -108,7 +174,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10123415">Data Hiding With Deep Learning: A Survey Unifying Digital Watermarking and Steganography</a></div>
-    <div class="author"><strong>Zihan Wang</strong>, Olivia Byrnes, Hu Wang, Ruoxi Sun, Congbo Ma, Huaming Chen, Qi Wu, Minhui Xue.</div>
+    <div class="author"><u><strong>Zihan Wang</strong></u>, Olivia Byrnes, Hu Wang, Ruoxi Sun, Congbo Ma, Huaming Chen, Qi Wu, Minhui Xue.</div>
     <div class="periodical"><em>IEEE Transactions on Computational Social Systems
  <strong>(TCSS)</strong>, Dec. 2023.</em></div>
     <div class="links">
@@ -130,62 +196,6 @@
 </li>
 
 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/usenix24.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">USENIX'24</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" target="_blank">Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation</a></div>
-    <div class="author">Shuofeng Liu, <strong>Zihan Wang</strong>, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. </div>
-    <div class="periodical"><em>USENIX Security, Feb. 2024.</em></div>
-    <div class="links">
-      <a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <details class="auto-close">
-        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
-        <pre style="font-size:10px;">
-@inproceedings{liu2024purpose,
-  title={Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation},
-  author={Liu, Shuofeng and Wang, Zihan and Xue, Minhui and Wang, Long and Zhang, Yuanchao and Bai, Guangdong.},
-  journal={USENIX Security},
-  year={2024}
-}        </pre>
-    </details>
-    </div>
-  </div>
-</div>
-</li>
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ccs_cover.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CCS'24</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3589334.3645697" target="_blank">Uncovering Gradient Inversion Risks in Practical Language Model Training</a></div>
-    <div class="author">Xinguo Feng, Zhongkui Ma, <strong>Zihan Wang</strong>, Chegne Eu Joe, Mengyao Ma, Alsharif Abuadbba, Guangdong Bai. </div>
-    <div class="periodical"><em>ACM Computer and Communications Security Conference (CCS), Aug. 2024.</em></div>
-    <div class="links">
-      <a href="https://dl.acm.org/doi/10.1145/3658644.3690292" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <details class="auto-close">
-        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
-        <pre style="font-size:10px;">
-@inproceedings{
-}        </pre>
-    </details>
-    </div>
-  </div>
-</div>
-</li>
-
-
 
 <li>
 <div class="pub-row">
@@ -198,7 +208,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf">M<sup>4</sup>I: Multi-modal Models Membership Inference
 </a></div>
-    <div class="author">Pingyi Hu, <u><strong>Zihan Wang</strong></u>, Ruoxi Sun, Hu Wang, Minhui Xue.</div>
+    <div class="author">Pingyi Hu<sup style="font-size: 0.6em; line-height: 0;">&dagger;</sup>, <strong><u>Zihan Wang<sup style="font-size: 0.6em; line-height: 0;">&dagger;</sup></u></strong>, Ruoxi Sun, Hu Wang, Minhui Xue.</div>
     <div class="periodical"><em>Neural Information Processing Systems <strong>(NeurIPS)</strong>, Sep. 2022.</em></div>
     <div class="links">
       <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -220,6 +230,70 @@
 </li>
 
 
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/usenix24.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">USENIX'24</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" target="_blank">Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation</a></div>
+    <div class="author">Shuofeng Liu, <u><strong>Zihan Wang</strong></u>, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. </div>
+    <div class="periodical"><em>USENIX Security, Feb. 2024.</em></div>
+    <div class="links">
+      <a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <details class="auto-close">
+        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
+        <pre style="font-size:10px;">
+@inproceedings{liu2024purpose,
+  title={Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation},
+  author={Liu, Shuofeng and Wang, Zihan and Xue, Minhui and Wang, Long and Zhang, Yuanchao and Bai, Guangdong.},
+  journal={USENIX Security},
+  year={2024}
+}        </pre>
+    </details>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<!-- <br>
+<h2 id="publications" >Other Publications</h2>
+ -->
+
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ccs_cover.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CCS'24</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3589334.3645697" target="_blank">Uncovering Gradient Inversion Risks in Practical Language Model Training</a></div>
+    <div class="author">Xinguo Feng, Zhongkui Ma, <u><strong>Zihan Wang</strong></u>, Chegne Eu Joe, Mengyao Ma, Alsharif Abuadbba, Guangdong Bai. </div>
+    <div class="periodical"><em>ACM Computer and Communications Security Conference (CCS), Aug. 2024.</em></div>
+    <div class="links">
+      <a href="https://dl.acm.org/doi/10.1145/3658644.3690292" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <details class="auto-close">
+        <summary class="btn btn-sm z-depth-0">BibTeX</summary>
+        <pre style="font-size:10px;">
+@inproceedings{
+}        </pre>
+    </details>
+    </div>
+  </div>
+</div>
+</li>
+
+
+
 <li>
 <div class="pub-row">
 
@@ -230,7 +304,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openaccess.thecvf.com/content/WACV2024/papers/Liu_BPKD_Boundary_Privileged_Knowledge_Distillation_for_Semantic_Segmentation_WACV_2024_paper.pdf" target="_blank">BPKD: Boundary Privileged Knowledge Distillation For Semantic Segmentation</a></div>
-    <div class="author">Liyang Liu, <strong>Zihan Wang</strong>, Minh Hieu Phan, Bowen Zhang, Jinchao Ge, Yifan Liu. </div>
+    <div class="author">Liyang Liu, <u><strong>Zihan Wang</strong></u>, Minh Hieu Phan, Bowen Zhang, Jinchao Ge, Yifan Liu. </div>
     <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, Oct. 2023.</em></div>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Liu_BPKD_Boundary_Privileged_Knowledge_Distillation_for_Semantic_Segmentation_WACV_2024_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>

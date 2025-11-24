@@ -13,7 +13,8 @@ My research is generously supported by the RTP Scholarship and CSIRO's Data61 To
 ## Recent Projects
 
 <p style="margin:-0.2rem 0 0.12rem 0; padding:0"><b>Model Usage Control</b></p>
-- Neuron-level Usage Control: <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">CoreLocker</a>@IEEE S&P, <a href="https://www.zihan.com.au/assets/files/AdaLoc25.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AdaLoc</a> 
+- Neuron-level Usage Control: <a href="https://www.zihan.com.au/assets/files/SP24CoreLocker.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">CoreLocker</a>@IEEE S&P
+- Adaptable Usage Control: <a href="https://www.zihan.com.au/assets/files/AdaLoc25.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AdaLoc</a> 
 - Logit-level Model Modulation: <a href="https://www.zihan.com.au/assets/files/WWW25AIM.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AIM</a>@WWW
 - Neural Network Verification: <a href="https://www.zihan.com.au/assets/files/WRAACT25OOP.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">WRAACT</a>@OOPSLA
 

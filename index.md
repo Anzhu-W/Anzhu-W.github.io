@@ -27,6 +27,7 @@ My research is generously supported by the RTP Scholarship and CSIRO's Data61 To
 
 
 ## News
+- **[Nov. 2025]** I will serve as a PC member for USENIX Security AE.
 - **[Nov. 2025]** Our paper on GIA defense has been accepted to AsiaCCS’26.
 - **[Sep. 2025]** I will serve as a reviewer for ICLR'26 and CVPR'26.
 - **[Aug. 2025]** Our paper on NNV has been accepted to OOPSLA’25.

@@ -240,7 +240,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" target="_blank">Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation</a></div>
+    <div class="title"><a href="https://www.usenix.org/system/files/usenixsecurity24-liu-shuofeng.pdf" target="_blank">Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation</a></div>
     <div class="author">Shuofeng Liu, <u><strong>Zihan Wang</strong></u>, Minhui Xue, Long Wang, Yuanchao Zhang, Guangdong Bai. </div>
     <div class="periodical"><em>USENIX Security, Feb. 2024.</em></div>
     <div class="links">

@@ -21,7 +21,7 @@ My research is generously supported by the RTP Scholarship and CSIRO's Data61 To
 
 <p style="margin:-0.2rem 0 0.12rem 0; padding:0"><b>Data Usage Control</b></p>
 - Model-specific Authorization: <a href="https://arxiv.org/pdf/2510.10982" class="btn btn-sm z-depth-0" role="button" target="_blank">Non-transferable Examples</a> 
-- Algorithmic Purpose Limitation: <a href="https://www.usenix.org/system/files/sec24fall-prepub-2516-liu-shuofeng.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AlgoSpec</a>@USENIX Security
+- Algorithmic Purpose Limitation: <a href="https://www.usenix.org/system/files/usenixsecurity24-liu-shuofeng.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">AlgoSpec</a>@USENIX Security
 - Token-level Gradient Inversion: <a href="https://dl.acm.org/doi/abs/10.1145/3589334.3645697" class="btn btn-sm z-depth-0" role="button" target="_blank">Grab</a>@ACM CCS
 - Multi-modal Membership Inference: <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/0c79d6ed1788653643a1ac67b6ea32a7-Paper-Conference.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">M⁴I</a>@NeurIPS
 

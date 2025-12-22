@@ -1,0 +1,14 @@
+# Jekyll output
+_site/
+
+# Caches
+.jekyll-cache/
+.sass-cache/
+.bundle/
+
+# Bundler
+vendor/bundle/
+
+# Editor/OS files
+.DS_Store
+.history/

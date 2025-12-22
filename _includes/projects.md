@@ -62,7 +62,7 @@
   author={Wang, Zihan and Ma, Ethan and Ma, Zhongkui and Liu, Shuofeng and Liu, Akide and Wang, Derui and Xue, Minhui and Bai, Guangdong},
   booktitle={arXiv preprint arXiv:2510.10982},
   year={2025}
-}        
+}
         </pre>
     </details>
     </div>
@@ -94,7 +94,7 @@
   author={Wang, Zihan and Ma, Ethan and Ma, Zhongkui and Liu, Shuofeng and Liu, Akide and Wang, Derui and Xue, Minhui and Bai, Guangdong},
   booktitle={arXiv preprint arXiv:2510.10982},
   year={2025}
-}        
+}
         </pre>
     </details>
     </div>
@@ -155,7 +155,7 @@
       <details class="auto-close">
         <summary class="btn btn-sm z-depth-0">BibTeX</summary>
         <pre style="font-size:10px;">
-@inproceedings{}        
+@inproceedings{}
         </pre>
     </details>
     </div>
@@ -323,7 +323,7 @@
 </div>
 </li>
 
-  
+
 <br>
 
 </ol>
@@ -333,7 +333,7 @@
     details.addEventListener('toggle', function() {
       if (this.open) {
         setTimeout(() => {
-          this.open = false; 
+          this.open = false;
         }, 4500);
       }
     });

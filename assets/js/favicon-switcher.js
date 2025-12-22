@@ -33,7 +33,7 @@ function initSwitcher(delay) {
       }
     })
 
-    if (! matched) {
+    if (!matched) {
       return
     }
 

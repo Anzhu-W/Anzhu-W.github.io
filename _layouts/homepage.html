@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}">
 
 <head>
   <title>{{ site.title }}</title>
@@ -8,7 +8,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{{ site.description }}">
-  {% if site.keywords %}  
+  {% if site.keywords %}
   <meta name="keywords" content="{{ site.keywords }}">
   {% endif %}
   {% if site.canonical %}
@@ -19,10 +19,18 @@
   <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
   <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
 
-  <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css
-    integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
-  <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css
-    integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css"
+    integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw="
+    crossorigin="anonymous"
+  >
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css"
+    integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ="
+    crossorigin="anonymous"
+  >
 
   <link rel="stylesheet" href="./assets/css/style.css">
   <link rel="stylesheet" href="./assets/css/publications.css">
@@ -47,7 +55,7 @@
       {% endif %}
 
       {% if site.position %}
-      <position style="font-size:1.10rem;">{{ site.position }}</position>
+      <position style="font-size:1.10rem">{{ site.position }}</position>
       <br>
       {% endif %}
       {% if site.subposition %}
@@ -74,7 +82,7 @@
       </a>
       {% endif %}
       {% if site.email %}
-      <a href="mailto: {{ site.email }}" style="color:#6d6d6d">
+      <a href="mailto:{{ site.email }}" style="color:#6d6d6d">
         <email>
           {{ site.email }}
         </email>
@@ -133,7 +141,7 @@
 
     </footer>
   </div>
-  <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   {% if site.google_analytics %}
   <script>
     (function (i, s, o, g, r, a, m) {

@@ -14,7 +14,7 @@ I serve on the program committees of top security conferences such as USENIX Sec
 ## News
 
 <div class="news" markdown="1">
-- **[Sep. 2026]** 🏆 Catch-Only-One was accepted to NeurIPS’26 as an <span class="honor">Oral (top 0.4%)</span>!
+- **[Sep. 2026]** 🏆 Catch-Only-One was accepted to NeurIPS’26 <span class="honor">(Oral, top 0.4%)</span>!
 - **[Sep. 2026]** 🏆 Our NTE work won the <span class="honor">Best Paper Award (Runner-Up)</span> at ECCV’26 LifeGenIP!
 - **[Jul. 2026]** I will serve as a PC member for <a href="https://www.ndss-symposium.org/ndss2027" target="_blank"><u>NDSS’27</u></a> and <a href="https://www.usenix.org/conference/usenixsecurity27" target="_blank"><u>USENIX Security’27</u></a>.
 - **[Apr. 2026]** Our paper on data privacy tracing has been accepted to IEEE TDSC’26.
